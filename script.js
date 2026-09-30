@@ -5,6 +5,9 @@ let todayPool = [];
 let currentIndex = 0;
 let shuffleSeed = 0;
 
+// LocalStorage 键前缀
+const STORAGE_PREFIX = 'dailyQuote_';
+
 // 简单的字符串哈希函数
 function hashString(str) {
     let hash = 0;
@@ -36,6 +39,86 @@ function shuffleArray(array, seed) {
         [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
     }
     return shuffled;
+}
+
+// 获取当前状态的存储键
+function getStorageKey() {
+    const todayString = getTodayString();
+    const categoryKey = currentCategory === '全部' ? 'all' : currentCategory;
+    return `${STORAGE_PREFIX}${todayString}_${categoryKey}_${shuffleSeed}`;
+}
+
+// 保存当前进度到 localStorage
+function saveProgress() {
+    try {
+        const key = getStorageKey();
+        const data = {
+            currentIndex,
+            shuffleSeed,
+            currentCategory,
+            date: getTodayString()
+        };
+        localStorage.setItem(key, JSON.stringify(data));
+    } catch (error) {
+        console.error('保存进度失败:', error);
+    }
+}
+
+// 从 localStorage 加载进度
+function loadProgress() {
+    try {
+        const todayString = getTodayString();
+        
+        // 尝试加载当前分类和种子的进度
+        for (let seed = 0; seed <= 10; seed++) {
+            const categoryKey = currentCategory === '全部' ? 'all' : currentCategory;
+            const key = `${STORAGE_PREFIX}${todayString}_${categoryKey}_${seed}`;
+            const stored = localStorage.getItem(key);
+            
+            if (stored) {
+                const data = JSON.parse(stored);
+                // 验证是否是今天的数据
+                if (data.date === todayString && data.currentCategory === currentCategory) {
+                    currentIndex = data.currentIndex || 0;
+                    shuffleSeed = data.shuffleSeed || 0;
+                    return true;
+                }
+            }
+        }
+        return false;
+    } catch (error) {
+        console.error('加载进度失败:', error);
+        return false;
+    }
+}
+
+// 清理过期的 localStorage 键
+function cleanupOldProgress() {
+    try {
+        const todayString = getTodayString();
+        const keysToRemove = [];
+        
+        // 遍历所有 localStorage 键
+        for (let i = 0; i < localStorage.length; i++) {
+            const key = localStorage.key(i);
+            if (key && key.startsWith(STORAGE_PREFIX)) {
+                // 提取日期部分 (格式: dailyQuote_YYYY-MM-DD_...)
+                const match = key.match(/dailyQuote_(\d{4}-\d{2}-\d{2})_/);
+                if (match && match[1] !== todayString) {
+                    keysToRemove.push(key);
+                }
+            }
+        }
+        
+        // 删除过期的键
+        keysToRemove.forEach(key => localStorage.removeItem(key));
+        
+        if (keysToRemove.length > 0) {
+            console.log(`清理了 ${keysToRemove.length} 个过期的进度记录`);
+        }
+    } catch (error) {
+        console.error('清理过期进度失败:', error);
+    }
 }
 
 // 根据分类和日期生成今日金句池
@@ -99,6 +182,7 @@ function nextQuote() {
     if (todayPool.length === 0) return;
     currentIndex = (currentIndex + 1) % todayPool.length;
     displayQuote();
+    saveProgress(); // 保存进度
 }
 
 // 再来一批
@@ -106,6 +190,7 @@ function newBatch() {
     shuffleSeed++;
     generateTodayPool();
     displayQuote();
+    saveProgress(); // 保存进度
 }
 
 // 复制到剪贴板
@@ -188,8 +273,17 @@ function showToast(message) {
 function handleCategoryChange() {
     currentCategory = document.getElementById('category').value;
     shuffleSeed = 0; // 重置洗牌种子
+    
+    // 尝试加载该分类的进度
+    const loaded = loadProgress();
+    
     generateTodayPool();
     displayQuote();
+    
+    if (!loaded) {
+        // 如果没有加载到进度，保存当前状态
+        saveProgress();
+    }
 }
 
 // 加载金句数据
@@ -201,9 +295,20 @@ async function loadQuotes() {
         }
         allQuotes = await response.json();
         
+        // 清理过期的进度记录
+        cleanupOldProgress();
+        
+        // 尝试加载今天的进度
+        const loaded = loadProgress();
+        
         // 生成今日金句池
         generateTodayPool();
         displayQuote();
+        
+        // 如果没有加载到进度，保存初始状态
+        if (!loaded) {
+            saveProgress();
+        }
     } catch (error) {
         console.error('加载金句失败:', error);
         document.getElementById('quoteText').textContent = '加载金句失败，请刷新页面重试';
