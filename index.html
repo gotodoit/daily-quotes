@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>每日金句 - Daily Quotes</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>📖 每日金句</h1>
+            <p class="subtitle">每天一句，滋养心灵</p>
+        </header>
+
+        <main>
+            <!-- 分类选择 -->
+            <div class="category-selector">
+                <label for="category">选择分类：</label>
+                <select id="category">
+                    <option value="全部">全部</option>
+                    <option value="古文">古文</option>
+                    <option value="励志">励志</option>
+                    <option value="英语">英语</option>
+                </select>
+            </div>
+
+            <!-- 今日金句卡片 -->
+            <div class="quote-card">
+                <div class="quote-text" id="quoteText">加载中...</div>
+                <div class="quote-meta">
+                    <span class="quote-author" id="quoteAuthor"></span>
+                    <span class="quote-category" id="quoteCategory"></span>
+                </div>
+            </div>
+
+            <!-- 操作按钮 -->
+            <div class="actions">
+                <button id="copyBtn" class="btn btn-primary" title="复制金句">
+                    📋 复制
+                </button>
+                <button id="speakBtn" class="btn btn-primary" title="朗读金句">
+                    🔊 朗读
+                </button>
+                <button id="nextBtn" class="btn btn-secondary" title="换一句">
+                    🔄 换一句
+                </button>
+                <button id="newBatchBtn" class="btn btn-secondary" title="重新洗牌">
+                    🎲 再来一批
+                </button>
+            </div>
+
+            <!-- 提示信息 -->
+            <div class="info">
+                <p>💡 同一天会显示相同的主要金句</p>
+                <p>💡 点击"换一句"可浏览今天的其他金句</p>
+            </div>
+        </main>
+
+        <footer>
+            <p>每日金句 © 2026 | <a href="https://github.com" target="_blank">GitHub</a></p>
+        </footer>
+    </div>
+
+    <!-- 复制成功提示 -->
+    <div id="toast" class="toast">已复制到剪贴板</div>
+
+    <script src="script.js"></script>
+</body>
+</html>
