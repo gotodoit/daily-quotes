@@ -122,6 +122,23 @@ main {
     font-weight: 400;
 }
 
+.quote-translation {
+    font-size: 1.3rem;
+    line-height: 1.7;
+    margin-bottom: 20px;
+    color: var(--text-muted);
+    font-weight: 400;
+    text-align: justify;
+    font-style: italic;
+    padding-left: 20px;
+    border-left: 3px solid var(--border-color);
+    display: none;
+}
+
+.quote-translation.show {
+    display: block;
+}
+
 .quote-meta {
     display: flex;
     justify-content: space-between;
@@ -271,6 +288,11 @@ footer a:hover {
         line-height: 1.9;
     }
     
+    .quote-translation {
+        font-size: 1.1rem;
+        padding-left: 15px;
+    }
+    
     .actions {
         flex-direction: column;
     }
@@ -300,5 +322,10 @@ footer a:hover {
     .quote-text.long {
         font-size: 1rem;
         line-height: 1.8;
+    }
+    
+    .quote-translation {
+        font-size: 1rem;
+        padding-left: 10px;
     }
 }

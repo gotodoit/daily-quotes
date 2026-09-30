@@ -64,6 +64,8 @@ function displayQuote() {
         document.getElementById('quoteText').textContent = '暂无金句';
         document.getElementById('quoteAuthor').textContent = '';
         document.getElementById('quoteCategory').textContent = '';
+        document.getElementById('quoteTranslation').textContent = '';
+        document.getElementById('quoteTranslation').classList.remove('show');
         return;
     }
     
@@ -79,6 +81,16 @@ function displayQuote() {
         quoteTextEl.classList.add('long');
     } else {
         quoteTextEl.classList.remove('long');
+    }
+    
+    // 显示翻译（如果存在）
+    const translationEl = document.getElementById('quoteTranslation');
+    if (quote.translation) {
+        translationEl.textContent = quote.translation;
+        translationEl.classList.add('show');
+    } else {
+        translationEl.textContent = '';
+        translationEl.classList.remove('show');
     }
 }
 
@@ -101,9 +113,17 @@ async function copyQuote() {
     const quote = todayPool[currentIndex];
     if (!quote) return;
     
-    const text = quote.author 
-        ? `${quote.text}\n— ${quote.author}`
-        : quote.text;
+    let text = quote.text;
+    
+    // 如果有翻译，添加翻译
+    if (quote.translation) {
+        text += `\n${quote.translation}`;
+    }
+    
+    // 添加作者
+    if (quote.author) {
+        text += `\n— ${quote.author}`;
+    }
     
     try {
         await navigator.clipboard.writeText(text);
