@@ -343,5 +343,530 @@
     "text": "背灯和月就花阴，已是十年踪迹十年心。此时此刻，我突然明白了，所有的时光都是被辜负被浪费后，才能从记忆里将某一段拎出，拍拍上面沉积的灰尘，感叹它是最好的时光。",
     "author": "张爱玲",
     "category": "段落"
+  },
+  {
+    "text": "锲而不舍，金石可镂。",
+    "author": "荀子《劝学》",
+    "category": "古文"
+  },
+  {
+    "text": "玉不琢，不成器；人不学，不知道。",
+    "author": "《礼记·学记》",
+    "category": "古文"
+  },
+  {
+    "text": "君子坦荡荡，小人长戚戚。",
+    "author": "孔子《论语》",
+    "category": "古文"
+  },
+  {
+    "text": "己所不欲，勿施于人。",
+    "author": "孔子《论语》",
+    "category": "古文"
+  },
+  {
+    "text": "工欲善其事，必先利其器。",
+    "author": "孔子《论语》",
+    "category": "古文"
+  },
+  {
+    "text": "人无远虑，必有近忧。",
+    "author": "孔子《论语》",
+    "category": "古文"
+  },
+  {
+    "text": "君子喻于义，小人喻于利。",
+    "author": "孔子《论语》",
+    "category": "古文"
+  },
+  {
+    "text": "温故而知新，可以为师矣。",
+    "author": "孔子《论语》",
+    "category": "古文"
+  },
+  {
+    "text": "学然后知不足，教然后知困。",
+    "author": "《礼记·学记》",
+    "category": "古文"
+  },
+  {
+    "text": "为者常成，行者常至。",
+    "author": "《晏子春秋》",
+    "category": "古文"
+  },
+  {
+    "text": "精诚所至，金石为开。",
+    "author": "《后汉书》",
+    "category": "古文"
+  },
+  {
+    "text": "士不可以不弘毅，任重而道远。",
+    "author": "曾子《论语》",
+    "category": "古文"
+  },
+  {
+    "text": "欲穷千里目，更上一层楼。",
+    "author": "王之涣《登鹳雀楼》",
+    "category": "古文"
+  },
+  {
+    "text": "绳锯木断，水滴石穿。",
+    "author": "罗大经《鹤林玉露》",
+    "category": "古文"
+  },
+  {
+    "text": "天下兴亡，匹夫有责。",
+    "author": "顾炎武",
+    "category": "古文"
+  },
+  {
+    "text": "横眉冷对千夫指，俯首甘为孺子牛。",
+    "author": "鲁迅《自嘲》",
+    "category": "古文"
+  },
+  {
+    "text": "春蚕到死丝方尽，蜡炬成灰泪始干。",
+    "author": "李商隐《无题》",
+    "category": "古文"
+  },
+  {
+    "text": "读书破万卷，下笔如有神。",
+    "author": "杜甫《奉赠韦左丞丈二十二韵》",
+    "category": "古文"
+  },
+  {
+    "text": "博学之，审问之，慎思之，明辨之，笃行之。",
+    "author": "《礼记·中庸》",
+    "category": "古文"
+  },
+  {
+    "text": "非淡泊无以明志，非宁静无以致远。",
+    "author": "诸葛亮《诫子书》",
+    "category": "古文"
+  },
+  {
+    "text": "临渊羡鱼，不如退而结网。",
+    "author": "《汉书》",
+    "category": "古文"
+  },
+  {
+    "text": "差之毫厘，谬以千里。",
+    "author": "《礼记·经解》",
+    "category": "古文"
+  },
+  {
+    "text": "知己知彼，百战不殆。",
+    "author": "孙子《孙子兵法》",
+    "category": "古文"
+  },
+  {
+    "text": "勿以善小而不为，勿以恶小而为之。",
+    "author": "刘备",
+    "category": "古文"
+  },
+  {
+    "text": "操千曲而后晓声，观千剑而后识器。",
+    "author": "刘勰《文心雕龙》",
+    "category": "古文"
+  },
+  {
+    "text": "人生的价值，并不是用时间，而是用深度去衡量的。",
+    "author": "列夫·托尔斯泰",
+    "category": "励志"
+  },
+  {
+    "text": "只有经历过地狱般的磨砺，才能练就创造天堂的力量。",
+    "author": "泰戈尔",
+    "category": "励志"
+  },
+  {
+    "text": "要么读书，要么旅行，身体和灵魂必须有一个在路上。",
+    "author": "",
+    "category": "励志"
+  },
+  {
+    "text": "命运给你一个比别人低的起点，是想让你用一生去奋斗出一个绝地反击的故事。",
+    "author": "",
+    "category": "励志"
+  },
+  {
+    "text": "所有的努力都不会完全白费，你付出多少时间和精力，都是在对未来积累。",
+    "author": "",
+    "category": "励志"
+  },
+  {
+    "text": "当你觉得为时已晚的时候，恰恰是最早的时候。",
+    "author": "",
+    "category": "励志"
+  },
+  {
+    "text": "永远不要因为走得太远，而忘记自己为什么出发。",
+    "author": "纪伯伦",
+    "category": "励志"
+  },
+  {
+    "text": "真正能让你倒下的，不是对手，而是你绝望的内心。",
+    "author": "",
+    "category": "励志"
+  },
+  {
+    "text": "当你停下来休息的时候，不要忘记别人还在奔跑。",
+    "author": "",
+    "category": "励志"
+  },
+  {
+    "text": "努力不一定成功，但放弃一定失败。",
+    "author": "",
+    "category": "励志"
+  },
+  {
+    "text": "不要轻言放弃，否则对不起自己。",
+    "author": "",
+    "category": "励志"
+  },
+  {
+    "text": "与其担心未来，不如现在好好努力。",
+    "author": "",
+    "category": "励志"
+  },
+  {
+    "text": "没有伞的孩子必须努力奔跑。",
+    "author": "",
+    "category": "励志"
+  },
+  {
+    "text": "你的努力，别人不一定放在眼里，但你不努力，别人一定放在心里。",
+    "author": "",
+    "category": "励志"
+  },
+  {
+    "text": "成功的秘诀在于永不改变既定的目标。",
+    "author": "卢梭",
+    "category": "励志"
+  },
+  {
+    "text": "只要路是对的，就不怕路远。",
+    "author": "",
+    "category": "励志"
+  },
+  {
+    "text": "今天的成就是昨天的积累，明天的成功则依赖于今天的努力。",
+    "author": "",
+    "category": "励志"
+  },
+  {
+    "text": "很多时候，不经意知道一些事后，表面装得无所谓，用微笑去掩饰，其实心里比什么都疼。",
+    "author": "",
+    "category": "励志"
+  },
+  {
+    "text": "不是每个人都能成为自己想要的样子，但每个人都可以努力成为自己想要的样子。",
+    "author": "",
+    "category": "励志"
+  },
+  {
+    "text": "你要记住你不是为别人而活，你是为自己而活。",
+    "author": "",
+    "category": "励志"
+  },
+  {
+    "text": "别人拥有的，你不必羡慕，只要努力，你也会拥有。",
+    "author": "",
+    "category": "励志"
+  },
+  {
+    "text": "有时候，你得停一下脚步，等一等心灵，让心情平和，想一想自己生活中拥有的所有美好的东西。",
+    "author": "",
+    "category": "励志"
+  },
+  {
+    "text": "时间就像海绵里的水，只要愿挤，总还是有的。",
+    "author": "鲁迅",
+    "category": "励志"
+  },
+  {
+    "text": "只有不断找寻机会的人才会及时把握机会。",
+    "author": "",
+    "category": "励志"
+  },
+  {
+    "text": "你的负担将变成礼物，你受的苦将照亮你的路。",
+    "author": "泰戈尔",
+    "category": "励志"
+  },
+  {
+    "text": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+    "author": "Nelson Mandela",
+    "category": "英语",
+    "translation": "生命中最大的荣耀不在于从未跌倒，而在于每次跌倒后都能重新站起。"
+  },
+  {
+    "text": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "英语",
+    "translation": "在困难中蕴藏着机遇。"
+  },
+  {
+    "text": "Your time is limited, don't waste it living someone else's life.",
+    "author": "Steve Jobs",
+    "category": "英语",
+    "translation": "你的时间有限，不要浪费在过别人的生活上。"
+  },
+  {
+    "text": "The way to get started is to quit talking and begin doing.",
+    "author": "Walt Disney",
+    "category": "英语",
+    "translation": "开始的方法是停止空谈，开始行动。"
+  },
+  {
+    "text": "Don't let yesterday take up too much of today.",
+    "author": "Will Rogers",
+    "category": "英语",
+    "translation": "不要让昨天占据今天太多的时间。"
+  },
+  {
+    "text": "You learn more from failure than from success. Don't let it stop you. Failure builds character.",
+    "author": "Unknown",
+    "category": "英语",
+    "translation": "失败比成功更能让你学到东西。不要让它阻止你。失败塑造性格。"
+  },
+  {
+    "text": "People who are crazy enough to think they can change the world, are the ones who do.",
+    "author": "Rob Siltanen",
+    "category": "英语",
+    "translation": "那些疯狂到认为自己能够改变世界的人，才是真正改变世界的人。"
+  },
+  {
+    "text": "Knowing is not enough; we must apply. Wishing is not enough; we must do.",
+    "author": "Johann Wolfgang Von Goethe",
+    "category": "英语",
+    "translation": "仅仅知道是不够的，我们必须应用。仅仅希望是不够的，我们必须行动。"
+  },
+  {
+    "text": "Whether you think you can or think you can't, you're right.",
+    "author": "Henry Ford",
+    "category": "英语",
+    "translation": "无论你认为自己能还是不能，你都是对的。"
+  },
+  {
+    "text": "I have not failed. I've just found 10,000 ways that won't work.",
+    "author": "Thomas Edison",
+    "category": "英语",
+    "translation": "我没有失败，我只是发现了一万种行不通的方法。"
+  },
+  {
+    "text": "A person who never made a mistake never tried anything new.",
+    "author": "Albert Einstein",
+    "category": "英语",
+    "translation": "一个从不犯错误的人永远不会尝试新事物。"
+  },
+  {
+    "text": "The only person you are destined to become is the person you decide to be.",
+    "author": "Ralph Waldo Emerson",
+    "category": "英语",
+    "translation": "你注定要成为的唯一的人，就是你决定成为的人。"
+  },
+  {
+    "text": "Go confidently in the direction of your dreams. Live the life you have imagined.",
+    "author": "Henry David Thoreau",
+    "category": "英语",
+    "translation": "自信地朝着你梦想的方向前进，过你想象中的生活。"
+  },
+  {
+    "text": "When you reach the end of your rope, tie a knot in it and hang on.",
+    "author": "Franklin D. Roosevelt",
+    "category": "英语",
+    "translation": "当你走到绳子的尽头时，在上面打个结并坚持住。"
+  },
+  {
+    "text": "The only way to achieve the impossible is to believe it is possible.",
+    "author": "Charles Kingsleigh",
+    "category": "英语",
+    "translation": "实现不可能的唯一方法就是相信它是可能的。"
+  },
+  {
+    "text": "Don't be pushed around by the fears in your mind. Be led by the dreams in your heart.",
+    "author": "Roy T. Bennett",
+    "category": "英语",
+    "translation": "不要被脑海中的恐惧所左右，要被心中的梦想所引领。"
+  },
+  {
+    "text": "Everything you can imagine is real.",
+    "author": "Pablo Picasso",
+    "category": "英语",
+    "translation": "你能想象的一切都是真实的。"
+  },
+  {
+    "text": "Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine.",
+    "author": "Roy T. Bennett",
+    "category": "英语",
+    "translation": "相信自己。你比你想象的更勇敢，比你知道的更有才华，比你想象的更有能力。"
+  },
+  {
+    "text": "If you want to lift yourself up, lift up someone else.",
+    "author": "Booker T. Washington",
+    "category": "英语",
+    "translation": "如果你想提升自己，就去提升别人。"
+  },
+  {
+    "text": "Do what you can, with what you have, where you are.",
+    "author": "Theodore Roosevelt",
+    "category": "英语",
+    "translation": "用你所拥有的，在你所在的地方，做你能做的事。"
+  },
+  {
+    "text": "In a gentle way, you can shake the world.",
+    "author": "Mahatma Gandhi",
+    "category": "英语",
+    "translation": "以温柔的方式，你可以撼动世界。"
+  },
+  {
+    "text": "Success is not how high you have climbed, but how you make a positive difference to the world.",
+    "author": "Roy T. Bennett",
+    "category": "英语",
+    "translation": "成功不在于你爬得多高，而在于你如何给世界带来积极的改变。"
+  },
+  {
+    "text": "If you can't fly then run, if you can't run then walk, if you can't walk then crawl, but whatever you do you have to keep moving forward.",
+    "author": "Martin Luther King Jr.",
+    "category": "英语",
+    "translation": "如果你不能飞就跑，如果不能跑就走，如果不能走就爬，但无论你做什么，都要继续前进。"
+  },
+  {
+    "text": "Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.",
+    "author": "Thomas Edison",
+    "category": "英语",
+    "translation": "我们最大的弱点在于放弃。最确定的成功方法就是永远再试一次。"
+  },
+  {
+    "text": "The distance between your dreams and reality is called action.",
+    "author": "Unknown",
+    "category": "英语",
+    "translation": "梦想与现实之间的距离叫做行动。"
+  },
+  {
+    "text": "从明天起，做一个幸福的人。喂马，劈柴，周游世界。从明天起，关心粮食和蔬菜。我有一所房子，面朝大海，春暖花开。",
+    "author": "海子《面朝大海，春暖花开》",
+    "category": "段落"
+  },
+  {
+    "text": "假如生活欺骗了你，不要悲伤，不要心急，忧郁的日子里须要镇静，相信吧，快乐的日子将会来临。心儿永远向往着未来，现在却常是忧郁。一切都是瞬息，一切都将会过去，而那过去了的，就会成为亲切的怀恋。",
+    "author": "普希金《假如生活欺骗了你》",
+    "category": "段落"
+  },
+  {
+    "text": "那是最好的时代，那是最坏的时代；那是智慧的时代，那是愚蠢的时代；那是信仰的时期，那是怀疑的时期；那是光明的季节，那是黑暗的季节；那是希望之春，那是失望之冬。",
+    "author": "狄更斯《双城记》",
+    "category": "段落"
+  },
+  {
+    "text": "人生有三件事不能等：对父母的孝心不能等，子女的教育不能等，自己的健康不能等。因为时间不会等待你。",
+    "author": "",
+    "category": "段落"
+  },
+  {
+    "text": "所有的大人都曾经是小孩，虽然，只有少数的人记得。一个人只有用心去看，才能看到真实。事情的真相只用眼睛是看不见的。",
+    "author": "圣埃克苏佩里《小王子》",
+    "category": "段落"
+  },
+  {
+    "text": "我们听过无数的道理，却仍旧过不好这一生。不是道理没用，而是听过之后没有去做。知道和做到之间，隔着千山万水。",
+    "author": "韩寒《后会无期》",
+    "category": "段落"
+  },
+  {
+    "text": "有时候你把什么放下了，不是因为突然就舍得了，而是因为期限到了，任性够了，成熟多了，也就知道这一页该翻过去了。",
+    "author": "",
+    "category": "段落"
+  },
+  {
+    "text": "人生四然：来是偶然，去是必然，尽其当然，顺其自然。不为无益之事，何以遣有涯之生。",
+    "author": "",
+    "category": "段落"
+  },
+  {
+    "text": "人的一生，总是在寻找一种平衡，忠贞的人得到尊敬，有爱的人得到幸福，勇敢的人得到成功。历经风雨，才能看透人心真假；患难与共，才能领悟感情冷暖。",
+    "author": "",
+    "category": "段落"
+  },
+  {
+    "text": "世界上最遥远的距离，不是生与死的距离，而是我站在你面前，你不知道我爱你。世界上最遥远的距离，不是我站在你面前你不知道我爱你，而是爱到痴迷却不能说我爱你。",
+    "author": "泰戈尔《世界上最遥远的距离》",
+    "category": "段落"
+  },
+  {
+    "text": "人生就像一场旅行，不必在乎目的地，在乎的是沿途的风景以及看风景的心情。让心灵去旅行，去感受生命的美好。",
+    "author": "",
+    "category": "段落"
+  },
+  {
+    "text": "如果有来生，要做一棵树，站成永恒，没有悲欢的姿势。一半在土里安详，一半在风里飞扬，一半洒落阴凉，一半沐浴阳光，非常沉默非常骄傲，从不依靠从不寻找。",
+    "author": "三毛",
+    "category": "段落"
+  },
+  {
+    "text": "时间是最公平的，活一天就拥有24小时，差别只是珍惜。你若不相信努力和时光，时光一定第一个辜负你。",
+    "author": "",
+    "category": "段落"
+  },
+  {
+    "text": "当你真心渴望某样东西时，整个宇宙都会联合起来帮助你完成。每个人都有自己的命运，你不能去劝阻任何人。但你要是真想要，就去做。",
+    "author": "保罗·柯艾略《牧羊少年奇幻之旅》",
+    "category": "段落"
+  },
+  {
+    "text": "人生最大的遗憾，莫过于轻易地放弃了不该放弃的，固执地坚持了不该坚持的。有些事，不想发生，却不得不接受；有些人，不可失去，却不得不放手。",
+    "author": "",
+    "category": "段落"
+  },
+  {
+    "text": "一个人至少拥有一个梦想，有一个理由去坚强。心若没有栖息的地方，到哪里都是在流浪。",
+    "author": "三毛",
+    "category": "段落"
+  },
+  {
+    "text": "真正的平静，不是避开车马喧嚣，而是在心中修篱种菊。尽管如流往事，每一天都涛声依旧，只要我们消除执念，便可寂静安然。",
+    "author": "林清玄",
+    "category": "段落"
+  },
+  {
+    "text": "人生如逆旅，我亦是行人。来者不可追，往者不可谏。既不回头，何必不忘。既然无缘，何须誓言。",
+    "author": "苏轼",
+    "category": "段落"
+  },
+  {
+    "text": "我们曾如此渴望命运的波澜，到最后才发现，人生最曼妙的风景，竟是内心的淡定与从容。我们曾如此期盼外界的认可，到最后才知道，世界是自己的，与他人毫无关系。",
+    "author": "杨绛《一百岁感言》",
+    "category": "段落"
+  },
+  {
+    "text": "人这一生，要走很多条路，有笔直坦途，有羊肠阡陌；有繁华，也有荒凉。无论如何，路要自己走，苦要自己吃，任何人无法给予全部依赖。",
+    "author": "",
+    "category": "段落"
+  },
+  {
+    "text": "你若爱，生活哪里都可爱。你若恨，生活哪里都可恨。你若感恩，处处可感恩。你若成长,事事可成长。不是世界选择了你，是你选择了这个世界。",
+    "author": "丰子恺",
+    "category": "段落"
+  },
+  {
+    "text": "生活不能等待别人来安排，要自己去争取和奋斗；而不论其结果是喜是悲，但可以慰藉的是，你总不枉在这世界上活了一场。",
+    "author": "路遥《平凡的世界》",
+    "category": "段落"
+  },
+  {
+    "text": "我们都在阴沟里，但仍有人仰望星空。生活在阴沟里，依然有仰望星空的权利。只要心中有光，何处不是桃花源。",
+    "author": "王尔德",
+    "category": "段落"
+  },
+  {
+    "text": "如果结果不如你所愿，就在尘埃落定前奋力一搏。你要尽全力保护你的梦想。那些嘲笑你梦想的人，他们必定会失败，他们想把你变成和他们一样的人。",
+    "author": "《当幸福来敲门》",
+    "category": "段落"
+  },
+  {
+    "text": "你要做一个不动声色的大人了。不准情绪化，不准偷偷想念，不准回头看。去过自己另外的生活。你要听话，不是所有的鱼都会生活在同一片海里。",
+    "author": "村上春树",
+    "category": "段落"
   }
 ]
