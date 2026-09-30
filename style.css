@@ -102,6 +102,7 @@ main {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    max-width: 100%;
 }
 
 .quote-text {
@@ -111,6 +112,14 @@ main {
     color: var(--text-color);
     font-weight: 500;
     text-align: justify;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
+
+.quote-text.long {
+    font-size: 1.4rem;
+    line-height: 2;
+    font-weight: 400;
 }
 
 .quote-translation {
@@ -274,6 +283,11 @@ footer a:hover {
         font-size: 1.4rem;
     }
     
+    .quote-text.long {
+        font-size: 1.1rem;
+        line-height: 1.9;
+    }
+    
     .quote-translation {
         font-size: 1.1rem;
         padding-left: 15px;
@@ -303,6 +317,11 @@ footer a:hover {
     
     .quote-text {
         font-size: 1.2rem;
+    }
+    
+    .quote-text.long {
+        font-size: 1rem;
+        line-height: 1.8;
     }
     
     .quote-translation {

@@ -70,9 +70,18 @@ function displayQuote() {
     }
     
     const quote = todayPool[currentIndex];
-    document.getElementById('quoteText').textContent = quote.text;
+    const quoteTextEl = document.getElementById('quoteText');
+    
+    quoteTextEl.textContent = quote.text;
     document.getElementById('quoteAuthor').textContent = quote.author ? `— ${quote.author}` : '';
     document.getElementById('quoteCategory').textContent = quote.category;
+    
+    // 如果文本长度超过 60 个字符，添加 long 类以使用较小字体
+    if (quote.text.length > 60) {
+        quoteTextEl.classList.add('long');
+    } else {
+        quoteTextEl.classList.remove('long');
+    }
     
     // 显示翻译（如果存在）
     const translationEl = document.getElementById('quoteTranslation');
