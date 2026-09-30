@@ -102,52 +102,62 @@
   {
     "text": "The only way to do great work is to love what you do.",
     "author": "Steve Jobs",
-    "category": "英语"
+    "category": "英语",
+    "translation": "成就伟大事业的唯一途径就是热爱你所做的事。"
   },
   {
     "text": "Life is 10% what happens to you and 90% how you react to it.",
     "author": "Charles R. Swindoll",
-    "category": "英语"
+    "category": "英语",
+    "translation": "生活中10%是发生在你身上的事，90%是你对此的反应。"
   },
   {
     "text": "The best time to plant a tree was 20 years ago. The second best time is now.",
     "author": "Chinese Proverb",
-    "category": "英语"
+    "category": "英语",
+    "translation": "种一棵树最好的时间是20年前，其次是现在。"
   },
   {
     "text": "Believe you can and you're halfway there.",
     "author": "Theodore Roosevelt",
-    "category": "英语"
+    "category": "英语",
+    "translation": "相信自己能做到，你就已经成功了一半。"
   },
   {
     "text": "It does not matter how slowly you go as long as you do not stop.",
     "author": "Confucius",
-    "category": "英语"
+    "category": "英语",
+    "translation": "前进缓慢没关系，只要你不停止脚步。"
   },
   {
     "text": "Everything you've ever wanted is on the other side of fear.",
     "author": "George Addair",
-    "category": "英语"
+    "category": "英语",
+    "translation": "你想要的一切，都在恐惧的另一端。"
   },
   {
     "text": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
     "author": "Winston Churchill",
-    "category": "英语"
+    "category": "英语",
+    "translation": "成功不是终点，失败也不是致命的，重要的是继续前进的勇气。"
   },
   {
     "text": "Don't watch the clock; do what it does. Keep going.",
     "author": "Sam Levenson",
-    "category": "英语"
+    "category": "英语",
+    "translation": "不要盯着时钟看，要像时钟一样行动，持续前进。"
   },
   {
     "text": "The future belongs to those who believe in the beauty of their dreams.",
     "author": "Eleanor Roosevelt",
-    "category": "英语"
+    "category": "英语",
+    "translation": "未来属于那些相信梦想之美的人。"
   },
   {
     "text": "It always seems impossible until it's done.",
     "author": "Nelson Mandela",
-    "category": "英语"
+    "category": "英语",
+    "translation": "在完成之前，一切看起来都是不可能的。"
   },
   {
     "text": "学而不思则罔，思而不学则殆。",
@@ -197,27 +207,32 @@
   {
     "text": "The only impossible journey is the one you never begin.",
     "author": "Tony Robbins",
-    "category": "英语"
+    "category": "英语",
+    "translation": "唯一不可能的旅程，是你从未开始的那个。"
   },
   {
     "text": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
     "author": "Ralph Waldo Emerson",
-    "category": "英语"
+    "category": "英语",
+    "translation": "我们身后和面前的事都微不足道，与我们内心的力量相比。"
   },
   {
     "text": "Strive not to be a success, but rather to be of value.",
     "author": "Albert Einstein",
-    "category": "英语"
+    "category": "英语",
+    "translation": "不要为成功而奋斗，要为成为有价值的人而努力。"
   },
   {
     "text": "The only limit to our realization of tomorrow is our doubts of today.",
     "author": "Franklin D. Roosevelt",
-    "category": "英语"
+    "category": "英语",
+    "translation": "实现明天理想的唯一障碍是今天的疑虑。"
   },
   {
     "text": "Act as if what you do makes a difference. It does.",
     "author": "William James",
-    "category": "英语"
+    "category": "英语",
+    "translation": "行动起来，就好像你做的事情会有所不同。确实如此。"
   },
   {
     "text": "读万卷书，行万里路。",

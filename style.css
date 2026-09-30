@@ -113,6 +113,23 @@ main {
     text-align: justify;
 }
 
+.quote-translation {
+    font-size: 1.3rem;
+    line-height: 1.7;
+    margin-bottom: 20px;
+    color: var(--text-muted);
+    font-weight: 400;
+    text-align: justify;
+    font-style: italic;
+    padding-left: 20px;
+    border-left: 3px solid var(--border-color);
+    display: none;
+}
+
+.quote-translation.show {
+    display: block;
+}
+
 .quote-meta {
     display: flex;
     justify-content: space-between;
@@ -257,6 +274,11 @@ footer a:hover {
         font-size: 1.4rem;
     }
     
+    .quote-translation {
+        font-size: 1.1rem;
+        padding-left: 15px;
+    }
+    
     .actions {
         flex-direction: column;
     }
@@ -281,5 +303,10 @@ footer a:hover {
     
     .quote-text {
         font-size: 1.2rem;
+    }
+    
+    .quote-translation {
+        font-size: 1rem;
+        padding-left: 10px;
     }
 }
