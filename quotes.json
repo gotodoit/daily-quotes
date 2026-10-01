@@ -868,5 +868,530 @@
     "text": "你要做一个不动声色的大人了。不准情绪化，不准偷偷想念，不准回头看。去过自己另外的生活。你要听话，不是所有的鱼都会生活在同一片海里。",
     "author": "村上春树",
     "category": "段落"
+  },
+  {
+    "text": "天下之难事，必作于易；天下之大事，必作于细。",
+    "author": "老子《道德经》",
+    "category": "古文"
+  },
+  {
+    "text": "合抱之木，生于毫末；九层之台，起于累土；千里之行，始于足下。",
+    "author": "老子《道德经》",
+    "category": "古文"
+  },
+  {
+    "text": "知人者智，自知者明；胜人者有力，自胜者强。",
+    "author": "老子《道德经》",
+    "category": "古文"
+  },
+  {
+    "text": "水善利万物而不争，处众人之所恶，故几于道。",
+    "author": "老子《道德经》",
+    "category": "古文"
+  },
+  {
+    "text": "信言不美，美言不信。善者不辩，辩者不善。",
+    "author": "老子《道德经》",
+    "category": "古文"
+  },
+  {
+    "text": "大道之行也，天下为公。",
+    "author": "《礼记·礼运》",
+    "category": "古文"
+  },
+  {
+    "text": "生于忧患，死于安乐。",
+    "author": "孟子",
+    "category": "古文"
+  },
+  {
+    "text": "富贵不能淫，贫贱不能移，威武不能屈，此之谓大丈夫。",
+    "author": "孟子",
+    "category": "古文"
+  },
+  {
+    "text": "人有不为也，而后可以有为。",
+    "author": "孟子",
+    "category": "古文"
+  },
+  {
+    "text": "尽信书，则不如无书。",
+    "author": "孟子",
+    "category": "古文"
+  },
+  {
+    "text": "吾生也有涯，而知也无涯。",
+    "author": "庄子《养生主》",
+    "category": "古文"
+  },
+  {
+    "text": "君子之交淡若水，小人之交甘若醴。",
+    "author": "庄子《山木》",
+    "category": "古文"
+  },
+  {
+    "text": "大音希声，大象无形。",
+    "author": "老子《道德经》",
+    "category": "古文"
+  },
+  {
+    "text": "祸兮福之所倚，福兮祸之所伏。",
+    "author": "老子《道德经》",
+    "category": "古文"
+  },
+  {
+    "text": "民为贵，社稷次之，君为轻。",
+    "author": "孟子",
+    "category": "古文"
+  },
+  {
+    "text": "路不行不通，事不为不成。",
+    "author": "墨子",
+    "category": "古文"
+  },
+  {
+    "text": "仁者见仁，智者见智。",
+    "author": "《易经》",
+    "category": "古文"
+  },
+  {
+    "text": "修身齐家治国平天下。",
+    "author": "《礼记·大学》",
+    "category": "古文"
+  },
+  {
+    "text": "格物致知，诚意正心。",
+    "author": "《礼记·大学》",
+    "category": "古文"
+  },
+  {
+    "text": "道不同，不相为谋。",
+    "author": "孔子《论语》",
+    "category": "古文"
+  },
+  {
+    "text": "朝闻道，夕死可矣。",
+    "author": "孔子《论语》",
+    "category": "古文"
+  },
+  {
+    "text": "岁寒，然后知松柏之后凋也。",
+    "author": "孔子《论语》",
+    "category": "古文"
+  },
+  {
+    "text": "不患人之不己知，患不知人也。",
+    "author": "孔子《论语》",
+    "category": "古文"
+  },
+  {
+    "text": "见贤思齐焉，见不贤而内自省也。",
+    "author": "孔子《论语》",
+    "category": "古文"
+  },
+  {
+    "text": "过而不改，是谓过矣。",
+    "author": "孔子《论语》",
+    "category": "古文"
+  },
+  {
+    "text": "人生的道路不会一帆风顺，事业的征途也充满崎岖艰险，只有奋斗，只有拼搏，才会达到成功的彼岸。",
+    "author": "",
+    "category": "励志"
+  },
+  {
+    "text": "人的潜能是一座无法估量的丰富的矿藏，只等着我们去挖掘。",
+    "author": "",
+    "category": "励志"
+  },
+  {
+    "text": "抱最大的希望，为最大的努力，做最坏的打算。",
+    "author": "",
+    "category": "励志"
+  },
+  {
+    "text": "真正的强者，不是没有眼泪的人，而是含着眼泪奔跑的人。",
+    "author": "",
+    "category": "励志"
+  },
+  {
+    "text": "成功的人不是赢在起点，而是赢在转折点。",
+    "author": "",
+    "category": "励志"
+  },
+  {
+    "text": "没有人能够回到过去重新开始，但每个人都可以从现在开始创造全新的未来。",
+    "author": "",
+    "category": "励志"
+  },
+  {
+    "text": "人生就像骑单车，想保持平衡就得往前走。",
+    "author": "爱因斯坦",
+    "category": "励志"
+  },
+  {
+    "text": "勇气不是感觉不到恐惧，而是感觉到恐惧也继续做下去。",
+    "author": "",
+    "category": "励志"
+  },
+  {
+    "text": "如果你不能飞，那就跑；如果跑不动，那就走；实在走不动，那就爬。无论做什么，你都要勇往直前。",
+    "author": "马丁·路德·金",
+    "category": "励志"
+  },
+  {
+    "text": "最困难的时候，就是距离成功不远了。",
+    "author": "拿破仑",
+    "category": "励志"
+  },
+  {
+    "text": "决定你人生高度的，不是你的起点，而是你的终点。",
+    "author": "",
+    "category": "励志"
+  },
+  {
+    "text": "人生就是一场马拉松，领先时不必沾沾自喜，落后时也不必慌乱着急。",
+    "author": "",
+    "category": "励志"
+  },
+  {
+    "text": "别人能做到的事，我也能做到。",
+    "author": "",
+    "category": "励志"
+  },
+  {
+    "text": "生活就像海洋，只有意志坚强的人，才能到达彼岸。",
+    "author": "马克思",
+    "category": "励志"
+  },
+  {
+    "text": "目标的坚定是性格中最必要的力量源泉之一，也是成功的利器之一。",
+    "author": "",
+    "category": "励志"
+  },
+  {
+    "text": "你不勇敢，没人替你坚强。",
+    "author": "",
+    "category": "励志"
+  },
+  {
+    "text": "成功者学习别人的经验，一般人学习自己的经验。",
+    "author": "",
+    "category": "励志"
+  },
+  {
+    "text": "不要因为别人而影响了你的生活节奏。",
+    "author": "",
+    "category": "励志"
+  },
+  {
+    "text": "不为失败找借口，只为成功找方法。",
+    "author": "",
+    "category": "励志"
+  },
+  {
+    "text": "你的选择是做或不做，但不做就永远不会有机会。",
+    "author": "",
+    "category": "励志"
+  },
+  {
+    "text": "每个人都会累，没人能为你承担所有的伤悲，人总有那么一段时间要学会自己长大。",
+    "author": "",
+    "category": "励志"
+  },
+  {
+    "text": "虽然过去不能改变，未来可以。",
+    "author": "",
+    "category": "励志"
+  },
+  {
+    "text": "智者一切求自己，愚者一切求他人。",
+    "author": "",
+    "category": "励志"
+  },
+  {
+    "text": "比别人多一点努力，你就会多一份成绩。",
+    "author": "",
+    "category": "励志"
+  },
+  {
+    "text": "只有自己强大，才不会被别人践踏。",
+    "author": "",
+    "category": "励志"
+  },
+  {
+    "text": "The harder you work, the luckier you get.",
+    "author": "Gary Player",
+    "category": "英语",
+    "translation": "你越努力，你就越幸运。"
+  },
+  {
+    "text": "Dream big and dare to fail.",
+    "author": "Norman Vaughan",
+    "category": "英语",
+    "translation": "梦想要远大，并敢于失败。"
+  },
+  {
+    "text": "The secret of getting ahead is getting started.",
+    "author": "Mark Twain",
+    "category": "英语",
+    "translation": "成功的秘诀就是开始行动。"
+  },
+  {
+    "text": "Life isn't about finding yourself. Life is about creating yourself.",
+    "author": "George Bernard Shaw",
+    "category": "英语",
+    "translation": "生活不是发现自己，而是创造自己。"
+  },
+  {
+    "text": "Opportunities don't happen. You create them.",
+    "author": "Chris Grosser",
+    "category": "英语",
+    "translation": "机会不会发生，你要创造它们。"
+  },
+  {
+    "text": "Don't wait. The time will never be just right.",
+    "author": "Napoleon Hill",
+    "category": "英语",
+    "translation": "不要等待，时机永远不会刚刚好。"
+  },
+  {
+    "text": "A journey of a thousand miles begins with a single step.",
+    "author": "Lao Tzu",
+    "category": "英语",
+    "translation": "千里之行，始于足下。"
+  },
+  {
+    "text": "It's not whether you get knocked down, it's whether you get up.",
+    "author": "Vince Lombardi",
+    "category": "英语",
+    "translation": "重要的不是你是否被击倒，而是你是否能站起来。"
+  },
+  {
+    "text": "Success usually comes to those who are too busy to be looking for it.",
+    "author": "Henry David Thoreau",
+    "category": "英语",
+    "translation": "成功通常会降临到那些忙得无暇寻找它的人身上。"
+  },
+  {
+    "text": "The only place where success comes before work is in the dictionary.",
+    "author": "Vidal Sassoon",
+    "category": "英语",
+    "translation": "只有在字典里，成功才会出现在工作之前。"
+  },
+  {
+    "text": "I find that the harder I work, the more luck I seem to have.",
+    "author": "Thomas Jefferson",
+    "category": "英语",
+    "translation": "我发现我越努力工作，我似乎就越幸运。"
+  },
+  {
+    "text": "Don't be afraid to give up the good to go for the great.",
+    "author": "John D. Rockefeller",
+    "category": "英语",
+    "translation": "不要害怕放弃好的去追求卓越的。"
+  },
+  {
+    "text": "Always bear in mind that your own resolution to succeed is more important than any other.",
+    "author": "Abraham Lincoln",
+    "category": "英语",
+    "translation": "永远记住，你成功的决心比任何其他事情都重要。"
+  },
+  {
+    "text": "Success is walking from failure to failure with no loss of enthusiasm.",
+    "author": "Winston Churchill",
+    "category": "英语",
+    "translation": "成功是从失败走向失败却不失去热情。"
+  },
+  {
+    "text": "The future depends on what you do today.",
+    "author": "Mahatma Gandhi",
+    "category": "英语",
+    "translation": "未来取决于你今天所做的事。"
+  },
+  {
+    "text": "Don't count the days, make the days count.",
+    "author": "Muhammad Ali",
+    "category": "英语",
+    "translation": "不要数日子，让日子变得有意义。"
+  },
+  {
+    "text": "The only person you should try to be better than is the person you were yesterday.",
+    "author": "Anonymous",
+    "category": "英语",
+    "translation": "你唯一应该超越的人是昨天的自己。"
+  },
+  {
+    "text": "Great things never come from comfort zones.",
+    "author": "Anonymous",
+    "category": "英语",
+    "translation": "伟大的事物永远不会来自舒适区。"
+  },
+  {
+    "text": "You don't have to be great to start, but you have to start to be great.",
+    "author": "Zig Ziglar",
+    "category": "英语",
+    "translation": "你不必很厉害才能开始，但你必须开始才能变得厉害。"
+  },
+  {
+    "text": "If opportunity doesn't knock, build a door.",
+    "author": "Milton Berle",
+    "category": "英语",
+    "translation": "如果机会不敲门，那就建一扇门。"
+  },
+  {
+    "text": "The best revenge is massive success.",
+    "author": "Frank Sinatra",
+    "category": "英语",
+    "translation": "最好的复仇是巨大的成功。"
+  },
+  {
+    "text": "A year from now you may wish you had started today.",
+    "author": "Karen Lamb",
+    "category": "英语",
+    "translation": "一年后，你可能会希望今天就开始。"
+  },
+  {
+    "text": "Fall seven times, stand up eight.",
+    "author": "Japanese Proverb",
+    "category": "英语",
+    "translation": "跌倒七次，站起八次。"
+  },
+  {
+    "text": "The difference between ordinary and extraordinary is that little extra.",
+    "author": "Jimmy Johnson",
+    "category": "英语",
+    "translation": "平凡与非凡之间的区别就是那一点额外的努力。"
+  },
+  {
+    "text": "Don't limit your challenges, challenge your limits.",
+    "author": "Anonymous",
+    "category": "英语",
+    "translation": "不要限制你的挑战，挑战你的极限。"
+  },
+  {
+    "text": "青春是一本太仓促的书，我们含着泪，一读再读。不要让未来的你，讨厌现在的自己。我们真正要做的，就是牢牢地抓住今天，让今天的自己胜过昨天的自己。",
+    "author": "",
+    "category": "段落"
+  },
+  {
+    "text": "人生没有白走的路，每一步都算数。你现在的付出，都会是一种沉淀，它们会默默铺路，只为让你成为更好的人。",
+    "author": "",
+    "category": "段落"
+  },
+  {
+    "text": "每个人都在努力，都在奋不顾身，不是只有你受尽委屈。你那么年轻，怕什么失败。给自己一个期限，不需要告诉所有人，只要用行动证明给自己看就好。",
+    "author": "",
+    "category": "段落"
+  },
+  {
+    "text": "不要在该奋斗的年纪选择安逸，只有度过了一段连自己都被感动的日子，才会遇见那个最好的自己，未来的你，一定会感谢现在拼命努力的自己。",
+    "author": "",
+    "category": "段落"
+  },
+  {
+    "text": "人生不可能一帆风顺，有成功，也有失败；有开心，也有失落。如果我们把生活中的这些起起落落看得太重，那么生活对于我们来说永远都不会坦然，永远都没有欢笑。",
+    "author": "",
+    "category": "段落"
+  },
+  {
+    "text": "人的一生，都有一些说不出的秘密，挽不回的遗憾，触不到的梦想，忘不了的爱。对别人要求松一点，就不会总失望；对自己要求严一点，就不会总沮丧。",
+    "author": "",
+    "category": "段落"
+  },
+  {
+    "text": "每一个强大的人，都咬着牙度过一段没人帮忙，没人支持，没人嘘寒问暖的日子。过去了，这就是你的成人礼，过不去，求饶了，这就是你的无底洞。",
+    "author": "",
+    "category": "段落"
+  },
+  {
+    "text": "生活总是让我们遍体鳞伤，但到后来，那些受伤的地方一定会变成我们最强壮的地方。你要相信，这个世界上总有人正在过着你想要的生活。",
+    "author": "海明威《永别了，武器》",
+    "category": "段落"
+  },
+  {
+    "text": "不管前方的路有多苦，只要走的方向正确，不管多么崎岖不平，都比站在原地更接近幸福。当你决定出发时，最困难的部分其实就已经完成了。",
+    "author": "宫崎骏《千与千寻》",
+    "category": "段落"
+  },
+  {
+    "text": "人生的路上，如果懂得体谅，懂得理解，懂得宽容，日子就会很温馨，也会很安宁。人生的路上，如果缺少体谅，不能理解，没有谦让，日子就会越过越烦恼。",
+    "author": "",
+    "category": "段落"
+  },
+  {
+    "text": "人生总是这样，你想要的东西总要到你不再指望的那一刻，才姗姗来迟。所以你别急，你要等，你要忍耐，你要坚持。",
+    "author": "",
+    "category": "段落"
+  },
+  {
+    "text": "不要因为走得太久，而忘记为什么出发。保持初心，不忘本源，才能在人生的道路上走得更远，走得更稳。",
+    "author": "",
+    "category": "段落"
+  },
+  {
+    "text": "人生就像蒲公英，看似自由，却身不由己。有些事不是看到希望才去坚持，而是坚持了才会看到希望。",
+    "author": "",
+    "category": "段落"
+  },
+  {
+    "text": "没有谁的人生是一帆风顺的，都会经历一些艰难困苦。但只要你不放弃，继续前行，那些曾经让你痛苦的事情，回头看时都会变成你的财富。",
+    "author": "",
+    "category": "段落"
+  },
+  {
+    "text": "你要相信，你生命里遇到的每个人每件事，都有它的价值和意义。有些人教会你爱，有些事教会你成长，哪怕只是浅浅在你的路途中留下印记，也是一笔难能可贵的财富。",
+    "author": "",
+    "category": "段落"
+  },
+  {
+    "text": "生活中出现不顺心的事情，不要心怀不满、怨气冲天，也不必耿耿于怀、一蹶不振，是福是祸都得面对，是好是坏都会过去。生气，是拿别人的错误惩罚自己。",
+    "author": "",
+    "category": "段落"
+  },
+  {
+    "text": "人生在世，注定要受许多委屈。而一个人越是成功，他所遭受的委屈也就越多。要使自己的生命获得价值和炫彩，就不能太在乎委屈，不能让它们揪紧你的心灵、扰乱你的生活。",
+    "author": "",
+    "category": "段落"
+  },
+  {
+    "text": "无论你正在经历什么，都不要轻易放弃，因为从来没有一种坚持会被辜负。人生就像一场马拉松，你可以慢，但千万不要停下来。",
+    "author": "",
+    "category": "段落"
+  },
+  {
+    "text": "人生最大的勇敢之一，就是经历欺骗和伤害之后，还能保持信任和爱的能力。不要因为一次的失败而气馁，每一次失败都是在为成功做准备。",
+    "author": "",
+    "category": "段落"
+  },
+  {
+    "text": "有时候，我们明明原谅了那个人，却无法真正快乐起来，那是因为，你忘了原谅自己。不管你经历多痛的事情，到最后都会渐渐遗忘。因为，没有什么能敌得过时光。",
+    "author": "",
+    "category": "段落"
+  },
+  {
+    "text": "生命太短，没时间留给遗憾。若不是终点，请微笑一直向前。遇到困难时不要抱怨，既然改变不了过去，那么就努力改变未来。",
+    "author": "",
+    "category": "段落"
+  },
+  {
+    "text": "人生的高度，不是你看清了多少事，而是你看轻了多少事。心灵的宽度，不是你认识了多少人，而是你包容了多少人。做一个山谷，容纳百川；做一棵大树，覆荫四方。",
+    "author": "",
+    "category": "段落"
+  },
+  {
+    "text": "人生就像茶几，上面摆满了杯具和餐具。但只要你换个角度，把杯具看成是洗涤心灵的机会，把餐具看成是充实人生的工具，生活就会变得不一样。",
+    "author": "",
+    "category": "段落"
+  },
+  {
+    "text": "不要去追一匹马，用追马的时间种草，待到春暖花开时，就会有一批骏马任你挑选。人生也是如此，不必去追逐，用提升自己的时间去充实自己，待到时机成熟时，自然会有收获。",
+    "author": "",
+    "category": "段落"
+  },
+  {
+    "text": "岁月如梭，光阴似箭。转眼间，我们都不再年轻。别再埋怨，抱怨没用；别再等待，等待无果。不如从现在开始，珍惜当下，活好今天，努力奋斗，不负此生。",
+    "author": "",
+    "category": "段落"
   }
 ]
