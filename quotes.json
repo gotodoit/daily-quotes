@@ -2425,5 +2425,505 @@
     "text": "每个人的人生都有两条路，一条用心走，叫做梦想；一条用脚走，叫做现实。心走得太慢，现实会苍白；脚走得太慢，梦不会高飞。人生的精彩，总是心走得很美，而与脚步能合一。",
     "author": "佚名",
     "category": "段落"
+  },
+  {
+    "text": "天道酬勤，地道酬善，人道酬诚，商道酬信。",
+    "author": "古语",
+    "category": "古文"
+  },
+  {
+    "text": "上善若水，水善利万物而不争。",
+    "author": "老子《道德经》",
+    "category": "古文"
+  },
+  {
+    "text": "一日三省吾身。",
+    "author": "曾子",
+    "category": "古文"
+  },
+  {
+    "text": "君子之交淡如水。",
+    "author": "庄子",
+    "category": "古文"
+  },
+  {
+    "text": "知止而后有定，定而后能静，静而后能安，安而后能虑，虑而后能得。",
+    "author": "《礼记·大学》",
+    "category": "古文"
+  },
+  {
+    "text": "人无刚骨，安身不牢。",
+    "author": "施耐庵《水浒传》",
+    "category": "古文"
+  },
+  {
+    "text": "静以修身，俭以养德，非淡泊无以明志，非宁静无以致远。",
+    "author": "诸葛亮",
+    "category": "古文"
+  },
+  {
+    "text": "海不辞水，故能成其大；山不辞土石，故能成其高。",
+    "author": "管子",
+    "category": "古文"
+  },
+  {
+    "text": "仁者不忧，知者不惑，勇者不惧。",
+    "author": "孔子《论语》",
+    "category": "古文"
+  },
+  {
+    "text": "慎终如始，则无败事。",
+    "author": "老子《道德经》",
+    "category": "古文"
+  },
+  {
+    "text": "以铜为镜，可以正衣冠；以古为镜，可以知兴替；以人为镜，可以明得失。",
+    "author": "唐太宗",
+    "category": "古文"
+  },
+  {
+    "text": "天下难事，必作于易；天下大事，必作于细。",
+    "author": "老子",
+    "category": "古文"
+  },
+  {
+    "text": "千里之行，始于足下。",
+    "author": "老子",
+    "category": "古文"
+  },
+  {
+    "text": "物竞天择，适者生存。",
+    "author": "严复",
+    "category": "古文"
+  },
+  {
+    "text": "一寸光阴一寸金，寸金难买寸光阴。",
+    "author": "《增广贤文》",
+    "category": "古文"
+  },
+  {
+    "text": "知人者智，自知者明。",
+    "author": "老子",
+    "category": "古文"
+  },
+  {
+    "text": "三军可夺帅也，匹夫不可夺志也。",
+    "author": "孔子《论语》",
+    "category": "古文"
+  },
+  {
+    "text": "读书百遍，其义自见。",
+    "author": "陈寿《三国志》",
+    "category": "古文"
+  },
+  {
+    "text": "学如逆水行舟，不进则退。",
+    "author": "古语",
+    "category": "古文"
+  },
+  {
+    "text": "君子有三畏：畏天命，畏大人，畏圣人之言。",
+    "author": "孔子《论语》",
+    "category": "古文"
+  },
+  {
+    "text": "人固有一死，或重于泰山，或轻于鸿毛。",
+    "author": "司马迁《报任安书》",
+    "category": "古文"
+  },
+  {
+    "text": "宁为玉碎，不为瓦全。",
+    "author": "《北齐书》",
+    "category": "古文"
+  },
+  {
+    "text": "海内存知己，天涯若比邻。",
+    "author": "王勃《送杜少府之任蜀州》",
+    "category": "古文"
+  },
+  {
+    "text": "当你停下脚步的时候，不要忘记别人还在奔跑。",
+    "author": "",
+    "category": "励志"
+  },
+  {
+    "text": "所有的逆袭，都是有备而来。",
+    "author": "",
+    "category": "励志"
+  },
+  {
+    "text": "你的努力，终将成就无可替代的自己。",
+    "author": "",
+    "category": "励志"
+  },
+  {
+    "text": "没有人会为你的未来买单，你要么努力向上爬，要么烂在社会最底层的泥淖里。",
+    "author": "",
+    "category": "励志"
+  },
+  {
+    "text": "低头要有勇气，抬头要有底气。",
+    "author": "",
+    "category": "励志"
+  },
+  {
+    "text": "只有经历过地狱般的折磨，才有征服天堂的力量。",
+    "author": "",
+    "category": "励志"
+  },
+  {
+    "text": "你可以一无所有，但绝不能一无是处。",
+    "author": "",
+    "category": "励志"
+  },
+  {
+    "text": "梦想，可以天花乱坠；理想，是我们一步一个脚印踩出来的坎坷道路。",
+    "author": "三毛",
+    "category": "励志"
+  },
+  {
+    "text": "成功并不是重要的事，重要的是努力。",
+    "author": "泰戈尔",
+    "category": "励志"
+  },
+  {
+    "text": "征服畏惧、建立自信的最快最确实的方法，就是去做你害怕的事。",
+    "author": "",
+    "category": "励志"
+  },
+  {
+    "text": "失败的定义：什么都要做，什么都在做，却从未做完过，也未做好过。",
+    "author": "",
+    "category": "励志"
+  },
+  {
+    "text": "真正能让你倒下的，不是对手，而是你绝望的心。",
+    "author": "",
+    "category": "励志"
+  },
+  {
+    "text": "任何事情要想取得成功，必须肯下苦功，并有坚持到底的毅力。",
+    "author": "",
+    "category": "励志"
+  },
+  {
+    "text": "人生总会有雨天和晴天，但总会雨过天晴的。",
+    "author": "",
+    "category": "励志"
+  },
+  {
+    "text": "自己选择的路，跪着也要走完。",
+    "author": "",
+    "category": "励志"
+  },
+  {
+    "text": "只要还有明天，今天就永远是起跑线。",
+    "author": "",
+    "category": "励志"
+  },
+  {
+    "text": "你不能决定生命的长度，但你可以控制它的宽度。",
+    "author": "",
+    "category": "励志"
+  },
+  {
+    "text": "不抱有一丝幻想，不放弃一点机会，不停止一日努力。",
+    "author": "",
+    "category": "励志"
+  },
+  {
+    "text": "现在不玩命，将来命玩你。",
+    "author": "",
+    "category": "励志"
+  },
+  {
+    "text": "只有一条路不能选择，那就是放弃的路。",
+    "author": "",
+    "category": "励志"
+  },
+  {
+    "text": "困难像弹簧，你弱它就强，你强它就弱。",
+    "author": "",
+    "category": "励志"
+  },
+  {
+    "text": "没有哪种教育能及得上逆境。",
+    "author": "",
+    "category": "励志"
+  },
+  {
+    "text": "每一发奋努力的背后，必有加倍的赏赐。",
+    "author": "",
+    "category": "励志"
+  },
+  {
+    "text": "The only thing we have to fear is fear itself.",
+    "author": "Franklin D. Roosevelt",
+    "category": "英语",
+    "translation": "我们唯一值得恐惧的就是恐惧本身。"
+  },
+  {
+    "text": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "英语",
+    "translation": "做你自己，因为别人都有人做了。"
+  },
+  {
+    "text": "Life is like riding a bicycle. To keep your balance, you must keep moving.",
+    "author": "Albert Einstein",
+    "category": "英语",
+    "translation": "生活就像骑自行车，要保持平衡就要不停前进。"
+  },
+  {
+    "text": "The only true wisdom is in knowing you know nothing.",
+    "author": "Socrates",
+    "category": "英语",
+    "translation": "真正的智慧在于知道自己一无所知。"
+  },
+  {
+    "text": "Not all those who wander are lost.",
+    "author": "J.R.R. Tolkien",
+    "category": "英语",
+    "translation": "并非所有流浪的人都迷失了方向。"
+  },
+  {
+    "text": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "英语",
+    "translation": "千里之行，始于足下。"
+  },
+  {
+    "text": "That which does not kill us makes us stronger.",
+    "author": "Friedrich Nietzsche",
+    "category": "英语",
+    "translation": "那些杀不死我们的，使我们更强大。"
+  },
+  {
+    "text": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+    "author": "Ralph Waldo Emerson",
+    "category": "英语",
+    "translation": "在一个不断试图改变你的世界里做自己，是最伟大的成就。"
+  },
+  {
+    "text": "Yesterday is history, tomorrow is a mystery, today is a gift of God, which is why we call it the present.",
+    "author": "Bill Keane",
+    "category": "英语",
+    "translation": "昨天是历史，明天是谜团，今天是上帝的礼物，这就是为什么我们称之为现在。"
+  },
+  {
+    "text": "Keep your face always toward the sunshine—and shadows will fall behind you.",
+    "author": "Walt Whitman",
+    "category": "英语",
+    "translation": "永远面向阳光，阴影就会落在你身后。"
+  },
+  {
+    "text": "The weak can never forgive. Forgiveness is the attribute of the strong.",
+    "author": "Mahatma Gandhi",
+    "category": "英语",
+    "translation": "弱者永远不会原谅，宽恕是强者的特质。"
+  },
+  {
+    "text": "Education is the most powerful weapon which you can use to change the world.",
+    "author": "Nelson Mandela",
+    "category": "英语",
+    "translation": "教育是你可以用来改变世界的最强大武器。"
+  },
+  {
+    "text": "I have not failed. I've just found 10000 ways that won't work.",
+    "author": "Thomas A. Edison",
+    "category": "英语",
+    "translation": "我没有失败，我只是发现了一万种行不通的方法。"
+  },
+  {
+    "text": "A room without books is like a body without a soul.",
+    "author": "Marcus Tullius Cicero",
+    "category": "英语",
+    "translation": "没有书的房间就像没有灵魂的躯体。"
+  },
+  {
+    "text": "Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind.",
+    "author": "Bernard M. Baruch",
+    "category": "英语",
+    "translation": "做你自己，说你所想，因为介意的人不重要，重要的人不介意。"
+  },
+  {
+    "text": "You know you're in love when you can't fall asleep because reality is finally better than your dreams.",
+    "author": "Dr. Seuss",
+    "category": "英语",
+    "translation": "当你因为现实终于比梦想更美好而无法入睡时，你就知道你恋爱了。"
+  },
+  {
+    "text": "No one can make you feel inferior without your consent.",
+    "author": "Eleanor Roosevelt",
+    "category": "英语",
+    "translation": "没有你的同意，没有人能让你感到自卑。"
+  },
+  {
+    "text": "We accept the love we think we deserve.",
+    "author": "Stephen Chbosky",
+    "category": "英语",
+    "translation": "我们接受我们认为自己应得的爱。"
+  },
+  {
+    "text": "It is better to be hated for what you are than to be loved for what you are not.",
+    "author": "Andre Gide",
+    "category": "英语",
+    "translation": "因为真实的自己被讨厌，好过因为虚假的自己被喜爱。"
+  },
+  {
+    "text": "To live is the rarest thing in the world. Most people exist, that is all.",
+    "author": "Oscar Wilde",
+    "category": "英语",
+    "translation": "活着是世上最稀罕的事，大多数人只是存在，仅此而已。"
+  },
+  {
+    "text": "Happiness is not something ready made. It comes from your own actions.",
+    "author": "Dalai Lama",
+    "category": "英语",
+    "translation": "幸福不是现成的东西，它来自你自己的行动。"
+  },
+  {
+    "text": "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.",
+    "author": "Helen Keller",
+    "category": "英语",
+    "translation": "世界上最美好的东西看不见也摸不着，必须用心去感受。"
+  },
+  {
+    "text": "A friend is someone who knows all about you and still loves you.",
+    "author": "Elbert Hubbard",
+    "category": "英语",
+    "translation": "朋友是了解你的一切却依然爱你的人。"
+  },
+  {
+    "text": "Without music, life would be a mistake.",
+    "author": "Friedrich Nietzsche",
+    "category": "英语",
+    "translation": "没有音乐，生活将是一个错误。"
+  },
+  {
+    "text": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+    "author": "Aristotle",
+    "category": "英语",
+    "translation": "我们反复做的事情造就了我们。因此，卓越不是一种行为，而是一种习惯。"
+  },
+  {
+    "text": "生命中最难的阶段不是没有人懂你，而是你不懂你自己。有时候，我们需要的不是一碗鸡汤，而是一记耳光。有些人出现在你的生命里，就是为了告诉你：你真好骗。",
+    "author": "",
+    "category": "段落"
+  },
+  {
+    "text": "人生的意义不在于拿一手好牌，而在于打好一手坏牌。每个人都会有一段特别艰难的时光，生活的窘迫，工作的失意，学业的压力，爱的惶惶不可终日。挺过来的，人生就会豁然开朗；挺不过来的，时间也会教会你怎么与它们握手言和，所以你都不必害怕的。",
+    "author": "",
+    "category": "段落"
+  },
+  {
+    "text": "很多时候，我们说放下了，其实并没有真的放下，我们只是假装很幸福，然后在寂静的角落里孤独地抚摸伤痕。放下，说起来简单，做起来却很难。人生就是这样，得失总是相依相伴，得到的同时也会失去些什么。",
+    "author": "",
+    "category": "段落"
+  },
+  {
+    "text": "人生有些事情就如打喷嚏，虽然你已经有所预感，却总是措手不及。生活不是林黛玉，不会因为忧伤而风情万种。人永远看不破的镜花水月，不过我指间烟云，世间千年，如我一瞬。",
+    "author": "",
+    "category": "段落"
+  },
+  {
+    "text": "时间告诉我们，感性说过的话，可以不算；爱过的人，可以再换。无论你经历多少痛，最终，都会慢慢遗忘。因为，没有什么能敌得过时光。我们总是善于去伤害那些爱我们的人，因为我们根本伤害不了那些不爱我们的人。",
+    "author": "",
+    "category": "段落"
+  },
+  {
+    "text": "人生最可悲的事情，莫过于胸怀大志，却又虚度光阴。觉得自己不够聪明，但干事总爱拖延；觉得自己学历不漂亮,可又没有利用业余继续充电；对自己不满意，但自我安慰今天好好玩明天再努力。",
+    "author": "",
+    "category": "段落"
+  },
+  {
+    "text": "有时候你把什么放下了，不是因为突然就舍得了，而是因为期限到了，任性够了，成熟多了，也就知道这一页该翻过去了。有些人，有些事，该忘就忘了吧，人家从没把你放心里过，你又何必自作多情。",
+    "author": "",
+    "category": "段落"
+  },
+  {
+    "text": "人生就像一杯茶，不会苦一辈子，但总会苦一阵子。没有人能一路单纯到底，但要记住，别忘了最初的自己。能控制情绪的人，才能控制人生。世上没有白费的努力，也没有碰巧的成功。",
+    "author": "",
+    "category": "段落"
+  },
+  {
+    "text": "人生没有那么多的假设，现实是一个一个真实的耳光，打在你的脸上，喊疼毫无疑义，唯有一往无前。梦想总是跑在我的前面。努力追寻它们，为了那一瞬间的同步，这就是动人的生命奇迹。",
+    "author": "",
+    "category": "段落"
+  },
+  {
+    "text": "很多时候，我们视为刻骨铭心的记忆，而别人却早已忘记，与其纠结于心，不如看淡，看轻。别人怎么看你，和你毫无关系。你要怎么活，也和别人毫无关系。你的世界，与其让别人来指指点点，不如自己做主。",
+    "author": "",
+    "category": "段落"
+  },
+  {
+    "text": "人生就是一场漫长的自娱自乐。讨别人欢心只是小聪明,每天都能讨到自己的欢喜才算大智慧。所有人都在催你前行,所有人都在恭喜你成功,却没有人真正关心你到底想要什么,是否快乐。",
+    "author": "",
+    "category": "段落"
+  },
+  {
+    "text": "不要去等明天，不要去相信永远，你所能做的，就是眼前。你所爱的，就是你做的。没有人会等你，在这风雨飘摇的人生路上。你所能做的，就是让自己更快、更强。",
+    "author": "",
+    "category": "段落"
+  },
+  {
+    "text": "人生的幸福，一半要争，一半要随。争，不是与他人争，而是与困苦争。随，不是随波逐流，而是知止而后安。争，人生少遗憾；随,内心得安宁。最怕该争时不争,该止时不止，总在纠结中痛苦。",
+    "author": "",
+    "category": "段落"
+  },
+  {
+    "text": "人生就像一场旅行，不必在乎目的地，在乎的，是沿途的风景，以及看风景的心情。有些事情，当我们年轻的时候无法懂得，当我们懂得的时候已不再年轻。世上有些东西可以弥补，有些东西永无弥补。",
+    "author": "",
+    "category": "段落"
+  },
+  {
+    "text": "人的一生中会遇到不顺心的事,会碰到不顺眼的人,如果你不学会原谅,就会活得痛苦,活得累。原谅是一种风度,是一种修养,原谅是一种溶剂,一种相互理解的润滑油。",
+    "author": "",
+    "category": "段落"
+  },
+  {
+    "text": "人生在世，总会有些感情，因失去而美丽；总有些往事，因回不去而珍贵。不必遗憾，若是美好，叫做精彩；若是糟糕，叫做经历。好好把握，好好珍惜，从容面对。",
+    "author": "",
+    "category": "段落"
+  },
+  {
+    "text": "人生最大的勇气不是不怕死亡，而是坚强的活着，勇敢的面对生活带给的压力和考验。生活中可以没有诗歌，但不能没有诗意；行进中可以没有道路，但不能没有前进的脚步；工作中可以没有经验，但不能没有学习。",
+    "author": "",
+    "category": "段落"
+  },
+  {
+    "text": "人生总是在前行，那些所有你以为过不去的过去，最后都留在了最后。有时候，我们并非走出了伤痛，不过是学会了带着伤痛继续生活。真正治愈自己的，只有自己；不去抱怨，尽量担待；不怕孤单，努力沉淀。",
+    "author": "",
+    "category": "段落"
+  },
+  {
+    "text": "人生最可怕的事，是一边后悔一边生活，却不做出任何改变。抱怨，不会让事情变好；放弃，不会让你更轻松。只有行动起来，才能改变现状。不要在该奋斗的年纪选择安逸，不要在能改变的时候选择逃避。",
+    "author": "",
+    "category": "段落"
+  },
+  {
+    "text": "人生就是这样，有欢笑也有泪水。一部分人主要负责欢笑，另外一部分人主要负责泪水。每一种创伤，都是一种成熟。你不要一直不满人家，你应该一直检讨自己才对。不满人家，是苦了你自己。",
+    "author": "",
+    "category": "段落"
+  },
+  {
+    "text": "人生，不是一成不变的，生活，不是固定不变的。得意时不要炫耀，失意时不要气馁，给别人一点真诚，给自己一份信心。做人重要的是学会宽容，不要刻意地笑话别人，或许今天你是欢乐的，明天会是失落的，人生多变，包容不变。",
+    "author": "",
+    "category": "段落"
+  },
+  {
+    "text": "生活不会按你想要的方式进行，它会给你一段时间，让你孤独、迷茫又沉默忧郁。但如果靠这段时间跟自己独处，多看一本书，去做可以做的事，放下过去的人，等你度过低潮，那些独处的时光必定能照亮你的路，也是这些不堪陪你成熟。所以，现在没那么糟，看似生活对你的亏欠，其实都是祝愿。",
+    "author": "",
+    "category": "段落"
+  },
+  {
+    "text": "年轻的时候，连多愁善感都要渲染的惊天动地。长大后却学会，越痛，越不动声色。越苦，越保持沉默。成长就是将你的哭声调成静音模式。生活告诉我们，这个世界从来不存在完美的人和事，过于完美的感情，只发生在童话和想象中，现实的常态，除了平淡，就是千疮百孔与劫后重生。",
+    "author": "",
+    "category": "段落"
+  },
+  {
+    "text": "人活着，其实就是一种心态，你若觉得快乐，幸福无处不在；你为自己悲鸣，世界必将灰暗。是非常有，不听当无；祸福相依，顺其自然。多行善，福必近；多为恶，祸难远。不奢求，心易安；不冒进，则身全。心小不容沙，量大不藏奸。自身平，人自重；心中正，人自服。",
+    "author": "",
+    "category": "段落"
   }
 ]
