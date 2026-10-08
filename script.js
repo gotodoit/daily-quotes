@@ -138,7 +138,11 @@ function generateTodayPool() {
     
     // 基于种子洗牌
     todayPool = shuffleArray(filtered, seed);
-    currentIndex = 0;
+    if (todayPool.length > 0) {
+        currentIndex = Math.min(currentIndex, todayPool.length - 1);
+    } else {
+        currentIndex = 0;
+    }
 }
 
 // 显示金句
@@ -188,6 +192,7 @@ function nextQuote() {
 // 再来一批
 function newBatch() {
     shuffleSeed++;
+    currentIndex = 0;
     generateTodayPool();
     displayQuote();
     saveProgress(); // 保存进度
@@ -276,7 +281,10 @@ function handleCategoryChange() {
     
     // 尝试加载该分类的进度
     const loaded = loadProgress();
-    
+    if (!loaded) {
+        currentIndex = 0;
+    }
+
     generateTodayPool();
     displayQuote();
     
@@ -300,7 +308,10 @@ async function loadQuotes() {
         
         // 尝试加载今天的进度
         const loaded = loadProgress();
-        
+        if (!loaded) {
+            currentIndex = 0;
+        }
+
         // 生成今日金句池
         generateTodayPool();
         displayQuote();
