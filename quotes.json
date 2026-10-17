@@ -6813,5 +6813,267 @@
     "text": "斯是陋室，惟吾德馨。苔痕上阶绿，草色入帘青。谈笑有鸿儒，往来无白丁。",
     "author": "刘禹锡《陋室铭》",
     "category": "段落"
+  },
+  {
+    "text": "星垂平野阔，月涌大江流。",
+    "author": "杜甫《旅夜书怀》",
+    "category": "古文"
+  },
+  {
+    "text": "小荷才露尖尖角，早有蜻蜓立上头。",
+    "author": "杨万里《小池》",
+    "category": "古文"
+  },
+  {
+    "text": "接天莲叶无穷碧，映日荷花别样红。",
+    "author": "杨万里《晓出净慈寺送林子方》",
+    "category": "古文"
+  },
+  {
+    "text": "忽如一夜春风来，千树万树梨花开。",
+    "author": "岑参《白雪歌送武判官归京》",
+    "category": "古文"
+  },
+  {
+    "text": "羌笛何须怨杨柳，春风不度玉门关。",
+    "author": "王之涣《凉州词》",
+    "category": "古文"
+  },
+  {
+    "text": "独在异乡为异客，每逢佳节倍思亲。",
+    "author": "王维《九月九日忆山东兄弟》",
+    "category": "古文"
+  },
+  {
+    "text": "何当共剪西窗烛，却话巴山夜雨时。",
+    "author": "李商隐《夜雨寄北》",
+    "category": "古文"
+  },
+  {
+    "text": "身无彩凤双飞翼，心有灵犀一点通。",
+    "author": "李商隐《无题》",
+    "category": "古文"
+  },
+  {
+    "text": "曾经沧海难为水，除却巫山不是云。",
+    "author": "元稹《离思五首·其四》",
+    "category": "古文"
+  },
+  {
+    "text": "侯门一入深如海，从此萧郎是路人。",
+    "author": "崔郊《赠去婢》",
+    "category": "古文"
+  },
+  {
+    "text": "人面不知何处去，桃花依旧笑春风。",
+    "author": "崔护《题都城南庄》",
+    "category": "古文"
+  },
+  {
+    "text": "洛阳亲友如相问，一片冰心在玉壶。",
+    "author": "王昌龄《芙蓉楼送辛渐》",
+    "category": "古文"
+  },
+  {
+    "text": "箫鼓追随春社近，衣冠简朴古风存。",
+    "author": "陆游《游山西村》",
+    "category": "古文"
+  },
+  {
+    "text": "志不立，天下无可成之事。",
+    "author": "王阳明",
+    "category": "励志"
+  },
+  {
+    "text": "前事不忘，后事之师。",
+    "author": "《战国策·赵策一》",
+    "category": "励志"
+  },
+  {
+    "text": "知耻近乎勇。",
+    "author": "《中庸》",
+    "category": "励志"
+  },
+  {
+    "text": "百尺竿头，更进一步。",
+    "author": "释道原《景德传灯录》",
+    "category": "励志"
+  },
+  {
+    "text": "今日事，今日毕。",
+    "author": "《训俗遗规》",
+    "category": "励志"
+  },
+  {
+    "text": "天道酬勤。",
+    "author": "《周易》",
+    "category": "励志"
+  },
+  {
+    "text": "自强不息，厚德载物。",
+    "author": "《周易》",
+    "category": "励志"
+  },
+  {
+    "text": "业精于勤，荒于嬉。",
+    "author": "韩愈",
+    "category": "励志"
+  },
+  {
+    "text": "时间就是生命，时间就是速度，时间就是力量。",
+    "author": "郭沫若",
+    "category": "励志"
+  },
+  {
+    "text": "时间就是金钱。",
+    "author": "本杰明·富兰克林",
+    "category": "励志"
+  },
+  {
+    "text": "失败是成功之母。",
+    "author": "西方谚语",
+    "category": "励志"
+  },
+  {
+    "text": "坚持就是胜利。",
+    "author": "毛泽东",
+    "category": "励志"
+  },
+  {
+    "text": "君子谋道不谋食。",
+    "author": "孔子《论语·卫灵公》",
+    "category": "励志"
+  },
+  {
+    "text": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+    "author": "Buddha",
+    "category": "英语",
+    "translation": "不要沉溺于过去，不要空想未来，把心专注在当下。"
+  },
+  {
+    "text": "I know that I know nothing.",
+    "author": "Socrates",
+    "category": "英语",
+    "translation": "我知道我一无所知。"
+  },
+  {
+    "text": "If you want to go fast, go alone. If you want to go far, go together.",
+    "author": "African proverb",
+    "category": "英语",
+    "translation": "欲速则独行，欲远则同行。"
+  },
+  {
+    "text": "Science knows no country, because knowledge belongs to humanity.",
+    "author": "Louis Pasteur",
+    "category": "英语",
+    "translation": "科学无国界，因为知识属于全人类。"
+  },
+  {
+    "text": "Chance favors only the prepared mind.",
+    "author": "Louis Pasteur",
+    "category": "英语",
+    "translation": "机遇只眷顾有准备的头脑。"
+  },
+  {
+    "text": "Keep away from people who try to belittle your ambitions.",
+    "author": "Mark Twain",
+    "category": "英语",
+    "translation": "远离那些贬低你抱负的人。"
+  },
+  {
+    "text": "The man who does not read has no advantage over the man who cannot read.",
+    "author": "Mark Twain",
+    "category": "英语",
+    "translation": "不读书的人，并不比不能读书的人更有优势。"
+  },
+  {
+    "text": "Whenever you find yourself on the side of the majority, it is time to pause and reflect.",
+    "author": "Mark Twain",
+    "category": "英语",
+    "translation": "当你发现自己站在多数人一边时，就该停下来想一想。"
+  },
+  {
+    "text": "Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured.",
+    "author": "Mark Twain",
+    "category": "英语",
+    "translation": "愤怒像酸液，伤容器更甚于所泼之物。"
+  },
+  {
+    "text": "The world owes you nothing. It was here first.",
+    "author": "Mark Twain",
+    "category": "英语",
+    "translation": "世界并不欠你什么，它比你先到。"
+  },
+  {
+    "text": "Never put off till tomorrow what may be done today.",
+    "author": "Benjamin Franklin",
+    "category": "英语",
+    "translation": "今日能做的事，不要拖到明天。"
+  },
+  {
+    "text": "Early to bed and early to rise makes a man healthy, wealthy, and wise.",
+    "author": "Benjamin Franklin",
+    "category": "英语",
+    "translation": "早睡早起使人健康、富有、明智。"
+  },
+  {
+    "text": "晋太元中，武陵人捕鱼为业。缘溪行，忘路之远近。忽逢桃花林，夹岸数百步，中无杂树，芳草鲜美，落英缤纷。渔人甚异之，复前行，欲穷其林。",
+    "author": "陶渊明《桃花源记》",
+    "category": "段落"
+  },
+  {
+    "text": "土地平旷，屋舍俨然，有良田美池桑竹之属。阡陌交通，鸡犬相闻。其中往来种作，男女衣着，悉如外人。黄发垂髫，并怡然自乐。",
+    "author": "陶渊明《桃花源记》",
+    "category": "段落"
+  },
+  {
+    "text": "鱼，我所欲也；熊掌，亦我所欲也。二者不可得兼，舍鱼而取熊掌者也。生，亦我所欲也；义，亦我所欲也。二者不可得兼，舍生而取义者也。",
+    "author": "孟子《鱼我所欲也》",
+    "category": "段落"
+  },
+  {
+    "text": "林尽水源，便得一山，山有小口，仿佛若有光。便舍船，从口入。初极狭，才通人。复行数十步，豁然开朗。",
+    "author": "陶渊明《桃花源记》",
+    "category": "段落"
+  },
+  {
+    "text": "盖余之勤且艰若此。今虽耄老，未有所成，犹幸预君子之列，而承天子之宠光，缀公卿之后，日侍坐备顾问，四海亦谬称其氏名，况才之过于余者乎？",
+    "author": "宋濂《送东阳马生序》",
+    "category": "段落"
+  },
+  {
+    "text": "寓逆旅，主人日再食，无鲜肥滋味之享。同舍生皆被绮绣，戴朱缨宝饰之帽，腰白玉之环，左佩刀，右备容臭，烨然若神人。",
+    "author": "宋濂《送东阳马生序》",
+    "category": "段落"
+  },
+  {
+    "text": "项王军壁垓下，兵少食尽，汉军及诸侯兵围之数重。夜闻汉军四面皆楚歌，项王乃大惊，曰：「汉皆已得楚乎？是何楚人之多也！」",
+    "author": "司马迁《史记·项羽本纪》",
+    "category": "段落"
+  },
+  {
+    "text": "宫中府中，俱为一体，陟罚臧否，不宜异同。若有作奸犯科及为忠善者，宜付有司论其刑赏，以昭陛下平明之理。",
+    "author": "诸葛亮《出师表》",
+    "category": "段落"
+  },
+  {
+    "text": "愿陛下托臣以讨贼兴复之效，不效，则治臣之罪，以告先帝之灵。若无兴德之言，则责攸之、祎、允等之慢，以彰其咎。",
+    "author": "诸葛亮《出师表》",
+    "category": "段落"
+  },
+  {
+    "text": "若夫霪雨霏霏，连月不开，阴风怒号，浊浪排空；日星隐曜，山岳潜形；商旅不行，樯倾楫摧；薄暮冥冥，虎啸猿啼。",
+    "author": "范仲淹《岳阳楼记》",
+    "category": "段落"
+  },
+  {
+    "text": "人知从太守游而乐，而不知太守之乐其乐也。醉能同其乐，醒能述以文者，太守谓谁？庐陵欧阳修也。",
+    "author": "欧阳修《醉翁亭记》",
+    "category": "段落"
+  },
+  {
+    "text": "我与父亲不相见已二年余了，我最不能忘记的是他的背影。那年冬天，祖母死了，父亲的差使也交卸了，正是大祸临头的日子，我从北京到徐州，打算跟着父亲奔丧回家。",
+    "author": "朱自清《背影》",
+    "category": "段落"
   }
 ]
