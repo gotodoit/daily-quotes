@@ -7337,5 +7337,277 @@
     "text": "十年生死两茫茫，不思量，自难忘。千里孤坟，无处话凄凉。纵使相逢应不识，尘满面，鬓如霜。",
     "author": "苏轼《江城子·乙卯正月二十日夜记梦》",
     "category": "段落"
+  },
+  {
+    "text": "疏影横斜水清浅，暗香浮动月黄昏。",
+    "author": "林逋《山园小梅》",
+    "category": "古文"
+  },
+  {
+    "text": "苔花如米小，也学牡丹开。",
+    "author": "袁枚《苔》",
+    "category": "古文"
+  },
+  {
+    "text": "绿杨烟外晓寒轻，红杏枝头春意闹。",
+    "author": "宋祁《玉楼春》",
+    "category": "古文"
+  },
+  {
+    "text": "醉里挑灯看剑，梦回吹角连营。",
+    "author": "辛弃疾《破阵子》",
+    "category": "古文"
+  },
+  {
+    "text": "了却君王天下事，赢得生前身后名。可怜白发生！",
+    "author": "辛弃疾《破阵子》",
+    "category": "古文"
+  },
+  {
+    "text": "想当年，金戈铁马，气吞万里如虎。",
+    "author": "辛弃疾《永遇乐·京口北固亭怀古》",
+    "category": "古文"
+  },
+  {
+    "text": "至今思项羽，不肯过江东。",
+    "author": "李清照《夏日绝句》",
+    "category": "古文"
+  },
+  {
+    "text": "纤云弄巧，飞星传恨，银汉迢迢暗度。",
+    "author": "秦观《鹊桥仙》",
+    "category": "古文"
+  },
+  {
+    "text": "大江东去，浪淘尽，千古风流人物。",
+    "author": "苏轼《念奴娇·赤壁怀古》",
+    "category": "古文"
+  },
+  {
+    "text": "回首向来萧瑟处，归去，也无风雨也无晴。",
+    "author": "苏轼《定风波》",
+    "category": "古文"
+  },
+  {
+    "text": "人间有味是清欢。",
+    "author": "苏轼《浣溪沙》",
+    "category": "古文"
+  },
+  {
+    "text": "垂下的头颅只是为了思想扬起，你若有一个不屈的灵魂，脚下就会有一片坚实的土地。",
+    "author": "汪国真",
+    "category": "励志"
+  },
+  {
+    "text": "你的问题主要在于读书不多而想得太多。",
+    "author": "杨绛",
+    "category": "励志"
+  },
+  {
+    "text": "人虽然渺小，人生苦短，但是人能学，人能修身，人能自我完善。",
+    "author": "杨绛",
+    "category": "励志"
+  },
+  {
+    "text": "奋斗就是生活，做人只有奋发，才会有一个充实的生活。",
+    "author": "吴玉章",
+    "category": "励志"
+  },
+  {
+    "text": "人的天职在于勇于探索真理。",
+    "author": "哥白尼",
+    "category": "励志"
+  },
+  {
+    "text": "天才就是百分之九十九的汗水加百分之一的灵感。",
+    "author": "托马斯·爱迪生",
+    "category": "励志"
+  },
+  {
+    "text": "我从来不把安逸和快乐看作是生活目的本身——这种伦理基础，我叫它猪栏的理想。",
+    "author": "阿尔伯特·爱因斯坦",
+    "category": "励志"
+  },
+  {
+    "text": "只有把抱怨环境的心情，化为上进的力量，才是成功的保证。",
+    "author": "罗曼·罗兰",
+    "category": "励志"
+  },
+  {
+    "text": "痛苦是人生的拐杖，它使强者更强，弱者更弱。",
+    "author": "罗曼·罗兰",
+    "category": "励志"
+  },
+  {
+    "text": "凡杀不死我的，必使我更强大。",
+    "author": "弗里德里希·尼采",
+    "category": "励志"
+  },
+  {
+    "text": "功不唐捐，玉汝于成。",
+    "author": "佚名",
+    "category": "励志"
+  },
+  {
+    "text": "We make a living by what we get, but we make a life by what we give.",
+    "author": "Winston Churchill",
+    "category": "英语",
+    "translation": "我们靠所得谋生，却靠所予创造人生。"
+  },
+  {
+    "text": "I learned that courage was not the absence of fear, but the triumph over it.",
+    "author": "Nelson Mandela",
+    "category": "英语",
+    "translation": "我明白勇气不是没有恐惧，而是战胜恐惧。"
+  },
+  {
+    "text": "If you can't feed a hundred people, then feed just one.",
+    "author": "Mother Teresa",
+    "category": "英语",
+    "translation": "若不能喂饱一百人，就先喂饱一个人。"
+  },
+  {
+    "text": "Either write something worth reading or do something worth writing.",
+    "author": "Benjamin Franklin",
+    "category": "英语",
+    "translation": "要么写出值得读的东西，要么做出值得写的事。"
+  },
+  {
+    "text": "Freedom lies in being bold.",
+    "author": "Robert Frost",
+    "category": "英语",
+    "translation": "自由在于大胆。"
+  },
+  {
+    "text": "碧云天，黄花地，西风紧，北雁南飞。晓来谁染霜林醉？总是离人泪。",
+    "author": "王实甫《长亭送别》",
+    "category": "段落"
+  },
+  {
+    "text": "关关雎鸠，在河之洲。窈窕淑女，君子好逑。参差荇菜，左右流之。窈窕淑女，寤寐求之。",
+    "author": "《诗经·关雎》",
+    "category": "段落"
+  },
+  {
+    "text": "昔我往矣，杨柳依依。今我来思，雨雪霏霏。行道迟迟，载渴载饥。我心伤悲，莫知我哀！",
+    "author": "《诗经·小雅·采薇》",
+    "category": "段落"
+  },
+  {
+    "text": "We shall go on to the end. We shall fight in France, we shall fight on the seas and oceans, we shall fight with growing confidence and growing strength in the air, we shall defend our island, whatever the cost may be.",
+    "author": "Winston Churchill, We Shall Fight on the Beaches",
+    "category": "段落",
+    "translation": "我们将战斗到底。我们将在法国作战，将在海洋上作战，将以不断增强的信心与力量在空中作战，将不惜一切代价保卫我们的岛屿。"
+  },
+  {
+    "text": "Let us not wallow in the valley of despair. I say to you today, my friends, so even though we face the difficulties of today and tomorrow, I still have a dream.",
+    "author": "Martin Luther King Jr., I Have a Dream",
+    "category": "段落",
+    "translation": "我们不要沉溺于绝望之谷。朋友们，我要对你们说：尽管我们今天和明天面临重重困难，我仍有一个梦想。"
+  },
+  {
+    "text": "All the world's a stage, and all the men and women merely players; they have their exits and their entrances, and one man in his time plays many parts.",
+    "author": "William Shakespeare, As You Like It",
+    "category": "段落",
+    "translation": "整个世界是一个舞台，所有的男男女女不过是演员；他们各有退场与登场，一个人在一生中扮演许多角色。"
+  },
+  {
+    "text": "To be, or not to be, that is the question: Whether 'tis nobler in the mind to suffer the slings and arrows of outrageous fortune, or to take arms against a sea of troubles and by opposing end them.",
+    "author": "William Shakespeare, Hamlet",
+    "category": "段落",
+    "translation": "生存还是毁灭，这是一个问题：究竟哪样更高贵，是去忍受狂暴命运无情的摧残，还是挺身反抗人世无涯的苦难，通过斗争把它们扫清。"
+  },
+  {
+    "text": "Happy families are all alike; every unhappy family is unhappy in its own way.",
+    "author": "Leo Tolstoy, Anna Karenina",
+    "category": "段落",
+    "translation": "幸福的家庭都是相似的，不幸的家庭各有各的不幸。"
+  },
+  {
+    "text": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity.",
+    "author": "Charles Dickens, A Tale of Two Cities",
+    "category": "段落",
+    "translation": "那是最好的时代，也是最坏的时代；那是智慧的时代，也是愚蠢的时代；那是信仰的时代，也是怀疑的时代。"
+  },
+  {
+    "text": "In a hole in the ground there lived a hobbit. Not a nasty, dirty, wet hole, filled with the ends of worms and an oozy smell, nor yet a dry, bare, sandy hole with nothing in it to sit down on or to eat: it was a hobbit-hole, and that means comfort.",
+    "author": "J.R.R. Tolkien, The Hobbit",
+    "category": "段落",
+    "translation": "在地下的洞里住着一个霍比特人。那不是肮脏湿腻、满是虫尾和腥臭的洞，也不是干燥光秃、没处可坐没东西可吃的沙洞：那是霍比特人的洞，意味着舒适。"
+  },
+  {
+    "text": "Mr. and Mrs. Dursley, of number four, Privet Drive, were proud to say that they were perfectly normal, thank you very much. They were the last people you'd expect to be involved in anything strange or mysterious, because they just didn't hold with such nonsense.",
+    "author": "J.K. Rowling, Harry Potter and the Philosopher's Stone",
+    "category": "段落",
+    "translation": "住在女贞路四号的德思礼夫妇总是得意地说他们非常正常，多谢关心。他们绝不会跟任何古怪神秘的事沾边，因为他们根本不信那套鬼话。"
+  },
+  {
+    "text": "The sun shone, having no alternative, on the nothing new.",
+    "author": "Samuel Beckett, Murphy",
+    "category": "段落",
+    "translation": "太阳照耀着，别无选择，照耀着并无新事的一切。"
+  },
+  {
+    "text": "行百里者半九十。",
+    "author": "《战国策》",
+    "category": "励志"
+  },
+  {
+    "text": "落木千山天远大，澄江一道月分明。",
+    "author": "黄庭坚《登快阁》",
+    "category": "古文"
+  },
+  {
+    "text": "万里归船弄长笛，此心吾与白鸥盟。",
+    "author": "黄庭坚《登快阁》",
+    "category": "古文"
+  },
+  {
+    "text": "Character is like a tree and reputation like a shadow. The shadow is what we think of it; the tree is the real thing.",
+    "author": "Abraham Lincoln",
+    "category": "英语",
+    "translation": "品格像树，名声像影；影是我们对它的看法，树才是真实。"
+  },
+  {
+    "text": "Whatever you are, be a good one.",
+    "author": "Abraham Lincoln",
+    "category": "英语",
+    "translation": "无论你是什么，都要做个好的。"
+  },
+  {
+    "text": "It is hard to fail, but it is worse never to have tried to succeed.",
+    "author": "Theodore Roosevelt",
+    "category": "英语",
+    "translation": "失败很痛苦，但从不尝试成功更糟。"
+  },
+  {
+    "text": "If you think you are too small to make a difference, try sleeping with a mosquito.",
+    "author": "Dalai Lama",
+    "category": "英语",
+    "translation": "你若觉得自己太渺小而无法改变世界，试着和蚊子一起睡吧。"
+  },
+  {
+    "text": "Silence is sometimes the best answer.",
+    "author": "Dalai Lama",
+    "category": "英语",
+    "translation": "有时，沉默是最好的回答。"
+  },
+  {
+    "text": "This above all: to thine own self be true.",
+    "author": "William Shakespeare",
+    "category": "英语",
+    "translation": "最重要的是：对自己忠实。"
+  },
+  {
+    "text": "Some are born great, some achieve greatness, and some have greatness thrust upon them.",
+    "author": "William Shakespeare",
+    "category": "英语",
+    "translation": "有人生而伟大，有人赢得伟大，有人被赋予伟大。"
+  },
+  {
+    "text": "The course of true love never did run smooth.",
+    "author": "William Shakespeare",
+    "category": "英语",
+    "translation": "真爱之路从不平坦。"
   }
 ]
