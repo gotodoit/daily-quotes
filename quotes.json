@@ -7609,5 +7609,267 @@
     "author": "William Shakespeare",
     "category": "英语",
     "translation": "真爱之路从不平坦。"
+  },
+  {
+    "text": "相濡以沫，不如相忘于江湖。",
+    "author": "《庄子》",
+    "category": "古文"
+  },
+  {
+    "text": "他山之石，可以攻玉。",
+    "author": "《诗经·小雅·鹤鸣》",
+    "category": "古文"
+  },
+  {
+    "text": "物格而后知至，知至而后意诚。",
+    "author": "《礼记·大学》",
+    "category": "古文"
+  },
+  {
+    "text": "知止而后有定，定而后能静。",
+    "author": "《礼记·大学》",
+    "category": "古文"
+  },
+  {
+    "text": "靡不有初，鲜克有终。",
+    "author": "《诗经·大雅·荡》",
+    "category": "古文"
+  },
+  {
+    "text": "投我以木桃，报之以琼瑶。",
+    "author": "《诗经·卫风·木瓜》",
+    "category": "古文"
+  },
+  {
+    "text": "巧言令色，鲜矣仁。",
+    "author": "《论语》",
+    "category": "古文"
+  },
+  {
+    "text": "君子义以为质，礼以行之，孙以出之，信以成之。",
+    "author": "《论语》",
+    "category": "古文"
+  },
+  {
+    "text": "君子忧道不忧贫。",
+    "author": "《论语》",
+    "category": "古文"
+  },
+  {
+    "text": "君子泰而不骄，小人骄而不泰。",
+    "author": "《论语》",
+    "category": "古文"
+  },
+  {
+    "text": "了却君王天下事，赢得生前身后名。",
+    "author": "辛弃疾",
+    "category": "古文"
+  },
+  {
+    "text": "春风又绿江南岸，明月何时照我还。",
+    "author": "王安石",
+    "category": "古文"
+  },
+  {
+    "text": "江山代有才人出，各领风骚数百年。",
+    "author": "赵翼",
+    "category": "古文"
+  },
+  {
+    "text": "愿中国青年都摆脱冷气，只是向上走，不必听自暴自弃者流的话。能做事的做事，能发声的发声。",
+    "author": "鲁迅",
+    "category": "励志"
+  },
+  {
+    "text": "其实地上本没有路，走的人多了，也便成了路。",
+    "author": "鲁迅",
+    "category": "励志"
+  },
+  {
+    "text": "悲剧将人生的有价值的东西毁灭给人看，喜剧将那无价值的撕破给人看。",
+    "author": "鲁迅",
+    "category": "励志"
+  },
+  {
+    "text": "你要看一个国家的文明，只需考察三件事：看他们怎样待孩子；看他们怎样待女人；看他们怎样利用闲暇的时间。",
+    "author": "胡适",
+    "category": "励志"
+  },
+  {
+    "text": "优雅是唯一不会褪色的美。",
+    "author": "奥黛丽·赫本",
+    "category": "励志"
+  },
+  {
+    "text": "我没有特别的聪明，我只是比别人更执着。",
+    "author": "托马斯·爱迪生",
+    "category": "励志"
+  },
+  {
+    "text": "成功是从失败到失败，也依然不改热情。",
+    "author": "温斯顿·丘吉尔",
+    "category": "励志"
+  },
+  {
+    "text": "机会不会找上门来，机会是你创造的。",
+    "author": "克里斯·格罗瑟",
+    "category": "励志"
+  },
+  {
+    "text": "人的差异在于业余时间。",
+    "author": "阿尔伯特·爱因斯坦",
+    "category": "励志"
+  },
+  {
+    "text": "Two roads diverged in a wood, and I took the one less traveled by.",
+    "author": "Robert Frost",
+    "category": "英语",
+    "translation": "林中两条路分岔，我选择了人迹更少的一条。"
+  },
+  {
+    "text": "He who has a why to live can bear almost any how.",
+    "author": "Friedrich Nietzsche",
+    "category": "英语",
+    "translation": "知道为何而活的人，几乎能承受任何活法。"
+  },
+  {
+    "text": "Man is born free, and everywhere he is in chains.",
+    "author": "Jean-Jacques Rousseau",
+    "category": "英语",
+    "translation": "人生而自由，却无往不在枷锁之中。"
+  },
+  {
+    "text": "I disapprove of what you say, but I will defend to the death your right to say it.",
+    "author": "Evelyn Beatrice Hall",
+    "category": "英语",
+    "translation": "我不同意你的观点，但我誓死捍卫你说话的权利。"
+  },
+  {
+    "text": "The pen is mightier than the sword.",
+    "author": "Edward Bulwer-Lytton",
+    "category": "英语",
+    "translation": "笔杆子比刀剑更有力量。"
+  },
+  {
+    "text": "What's in a name? That which we call a rose by any other name would smell as sweet.",
+    "author": "William Shakespeare",
+    "category": "英语",
+    "translation": "名字算什么？玫瑰不叫玫瑰，依然芬芳如故。"
+  },
+  {
+    "text": "If music be the food of love, play on.",
+    "author": "William Shakespeare",
+    "category": "英语",
+    "translation": "如果音乐是爱的食粮，那就继续演奏吧。"
+  },
+  {
+    "text": "The evil that men do lives after them; the good is oft interred with their bones.",
+    "author": "William Shakespeare",
+    "category": "英语",
+    "translation": "人所做的恶常在身后流传，善却常随骨骸埋葬。"
+  },
+  {
+    "text": "How poor are they that have not patience!",
+    "author": "William Shakespeare",
+    "category": "英语",
+    "translation": "没有耐心的人是多么可怜！"
+  },
+  {
+    "text": "The better part of valor is discretion.",
+    "author": "William Shakespeare",
+    "category": "英语",
+    "translation": "勇敢的更好一半是审慎。"
+  },
+  {
+    "text": "Give every man thy ear, but few thy voice.",
+    "author": "William Shakespeare",
+    "category": "英语",
+    "translation": "倾听众人，慎言于少数人。"
+  },
+  {
+    "text": "The rest is silence.",
+    "author": "William Shakespeare",
+    "category": "英语",
+    "translation": "余下的，只是沉默。"
+  },
+  {
+    "text": "所有命运赠送的礼物，早已在暗中标好了价格。",
+    "author": "斯蒂芬·茨威格",
+    "category": "段落"
+  },
+  {
+    "text": "满地都是六便士，他却抬头看见了月亮。",
+    "author": "威廉·萨默塞特·毛姆",
+    "category": "段落"
+  },
+  {
+    "text": "岁月不饶人，我亦未曾饶过岁月。",
+    "author": "木心",
+    "category": "段落"
+  },
+  {
+    "text": "生活不可能像你想象得那么好，但也不会像你想象得那么糟。人的脆弱和坚强都超乎自己的想象。",
+    "author": "莫泊桑",
+    "category": "段落"
+  },
+  {
+    "text": "人的一切痛苦，本质上都是对自己的无能的愤怒。",
+    "author": "王小波",
+    "category": "段落"
+  },
+  {
+    "text": "从前种种，譬如昨日死；从后种种，譬如今日生。",
+    "author": "袁了凡",
+    "category": "段落"
+  },
+  {
+    "text": "生命中真正重要的不是你遭遇了什么，而是你记住了哪些事，又是如何铭记的。",
+    "author": "加西亚·马尔克斯",
+    "category": "段落"
+  },
+  {
+    "text": "你要做一个不动声色的大人了。不准情绪化，不准偷偷想念，不准回头看。去过自己另外的生活。",
+    "author": "村上春树",
+    "category": "段落"
+  },
+  {
+    "text": "人生如露亦如电，应作如是观。",
+    "author": "《金刚经》",
+    "category": "段落"
+  },
+  {
+    "text": "人生如逆旅，我亦是行人。",
+    "author": "苏轼",
+    "category": "段落"
+  },
+  {
+    "text": "世界上只有一种英雄主义，那就是在认清生活真相之后依然热爱生活。",
+    "author": "罗曼·罗兰",
+    "category": "段落"
+  },
+  {
+    "text": "我所思兮在泰山，欲济无由由不通。",
+    "author": "贾谊",
+    "category": "段落"
+  },
+  {
+    "text": "你的自由，我的自由，大家的自由，才是真的自由。",
+    "author": "胡适",
+    "category": "励志"
+  },
+  {
+    "text": "单是说不行，要紧的是做。",
+    "author": "鲁迅",
+    "category": "励志"
+  },
+  {
+    "text": "改造自己，总比禁止别人来得难。",
+    "author": "鲁迅",
+    "category": "励志"
+  },
+  {
+    "text": "三十功名尘与土，八千里路云和月。",
+    "author": "岳飞",
+    "category": "励志"
   }
 ]
