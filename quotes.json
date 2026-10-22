@@ -8133,5 +8133,267 @@
     "author": "Aristotle",
     "category": "英语",
     "translation": "乐在工作，工自臻善。"
+  },
+  {
+    "text": "执子之手，与子偕老。",
+    "author": "《诗经·邶风·击鼓》",
+    "category": "古文"
+  },
+  {
+    "text": "蚍蜉撼大树，可笑不自量。",
+    "author": "韩愈《张十六书序》",
+    "category": "古文"
+  },
+  {
+    "text": "盖文章，经国之大业，不朽之盛事。",
+    "author": "曹丕《典论·论文》",
+    "category": "古文"
+  },
+  {
+    "text": "蝉噪林愈静，鸟鸣山更幽。",
+    "author": "王籍《入若耶溪》",
+    "category": "古文"
+  },
+  {
+    "text": "大巧若拙，大辩若讷。",
+    "author": "老子《道德经》",
+    "category": "古文"
+  },
+  {
+    "text": "君子之交淡若水，小人之交甘若醴；君子淡以亲，小人甘以绝。",
+    "author": "庄子《庄子》",
+    "category": "古文"
+  },
+  {
+    "text": "夫天地者，万物之逆旅也；光阴者，百代之过客也。",
+    "author": "李白《春夜宴从弟桃花园序》",
+    "category": "古文"
+  },
+  {
+    "text": "兴酣落笔摇五岳，诗成笑傲凌沧洲。",
+    "author": "李白",
+    "category": "古文"
+  },
+  {
+    "text": "读书之乐乐何如，绿满窗前草不除。",
+    "author": "翁森《四时读书乐》",
+    "category": "古文"
+  },
+  {
+    "text": "试玉要烧三日满，辨材须待七年期。",
+    "author": "白居易",
+    "category": "古文"
+  },
+  {
+    "text": "此情可待成追忆，只是当时已惘然。",
+    "author": "李商隐《锦瑟》",
+    "category": "古文"
+  },
+  {
+    "text": "庄生晓梦迷蝴蝶，望帝春心托杜鹃。",
+    "author": "李商隐《锦瑟》",
+    "category": "古文"
+  },
+  {
+    "text": "夕阳无限好，只是近黄昏。",
+    "author": "李商隐《乐游原》",
+    "category": "古文"
+  },
+  {
+    "text": "世界上只有一种英雄主义，就是认清生活的真相之后依然热爱生活。",
+    "author": "罗曼·罗兰",
+    "category": "励志"
+  },
+  {
+    "text": "生活不是等待风暴过去，而是学会在雨中起舞。",
+    "author": "Vivian Greene",
+    "category": "励志"
+  },
+  {
+    "text": "要么庸俗，要么孤独。",
+    "author": "叔本华",
+    "category": "励志"
+  },
+  {
+    "text": "含泪播种的人一定能含笑收获。",
+    "author": "佚名",
+    "category": "励志"
+  },
+  {
+    "text": "只有不断找寻机会的人才会把握机会。",
+    "author": "佚名",
+    "category": "励志"
+  },
+  {
+    "text": "高峰只对攀登它而不是仰望它的人来说才有真正意义。",
+    "author": "佚名",
+    "category": "励志"
+  },
+  {
+    "text": "长太息以掩涕兮，哀民生之多艰。",
+    "author": "屈原《离骚》",
+    "category": "励志"
+  },
+  {
+    "text": "成功源于不懈的努力。",
+    "author": "佚名",
+    "category": "励志"
+  },
+  {
+    "text": "你今天的努力，是幸运的伏笔。",
+    "author": "佚名",
+    "category": "励志"
+  },
+  {
+    "text": "当你感到痛苦时，正是在成长。",
+    "author": "佚名",
+    "category": "励志"
+  },
+  {
+    "text": "活着就是为了改变世界，难道还有其他原因吗？",
+    "author": "史蒂夫·乔布斯",
+    "category": "励志"
+  },
+  {
+    "text": "心有多大，舞台就有多大。",
+    "author": "佚名",
+    "category": "励志"
+  },
+  {
+    "text": "我们听过无数的道理，却仍旧过不好这一生。",
+    "author": "韩寒《后会无期》",
+    "category": "励志"
+  },
+  {
+    "text": "All that glitters is not gold.",
+    "author": "William Shakespeare",
+    "category": "英语",
+    "translation": "发光的不都是金子。"
+  },
+  {
+    "text": "The world is a book, and those who do not travel read only one page.",
+    "author": "Saint Augustine",
+    "category": "英语",
+    "translation": "世界是一本书，不旅行的人只读了一页。"
+  },
+  {
+    "text": "I wandered lonely as a cloud.",
+    "author": "William Wordsworth",
+    "category": "英语",
+    "translation": "我孤独地漫游，像一朵浮云。"
+  },
+  {
+    "text": "The child is father of the man.",
+    "author": "William Wordsworth",
+    "category": "英语",
+    "translation": "孩童是成人的父亲。"
+  },
+  {
+    "text": "Poetry is the spontaneous overflow of powerful feelings.",
+    "author": "William Wordsworth",
+    "category": "英语",
+    "translation": "诗是强烈感情的自然流露。"
+  },
+  {
+    "text": "Beauty is truth, truth beauty.",
+    "author": "John Keats",
+    "category": "英语",
+    "translation": "美即是真，真即是美。"
+  },
+  {
+    "text": "A thing of beauty is a joy forever.",
+    "author": "John Keats",
+    "category": "英语",
+    "translation": "美的事物是永恒的欢乐。"
+  },
+  {
+    "text": "If Winter comes, can Spring be far behind?",
+    "author": "Percy Bysshe Shelley",
+    "category": "英语",
+    "translation": "冬天来了，春天还会远吗？"
+  },
+  {
+    "text": "Big Brother is watching you.",
+    "author": "George Orwell",
+    "category": "英语",
+    "translation": "老大哥在看着你。"
+  },
+  {
+    "text": "It is a far, far better thing that I do, than I have ever done.",
+    "author": "Charles Dickens",
+    "category": "英语",
+    "translation": "我现在所做的，是一件远比以往任何好事都远为更好的事。"
+  },
+  {
+    "text": "Reader, I married him.",
+    "author": "Charlotte Brontë",
+    "category": "英语",
+    "translation": "读者啊，我嫁给了他。"
+  },
+  {
+    "text": "I know why the caged bird sings.",
+    "author": "Maya Angelou",
+    "category": "英语",
+    "translation": "我明白笼中鸟为何歌唱。"
+  },
+  {
+    "text": "夫天地者，万物之逆旅；光阴者，百代之过客。而浮生若梦，为欢几何？古人秉烛夜游，良有以也。况阳春召我以烟景，大块假我以文章。会桃花之芳园，序天伦之乐事。群季俊秀，皆为惠连；吾人咏歌，独惭康乐。幽赏未已，高谈转清。开琼筵以坐花，飞羽觞而醉月。不有佳作，何伸雅怀？如诗不成，罚依金谷酒数。",
+    "author": "李白《春夜宴从弟桃花园序》",
+    "category": "段落"
+  },
+  {
+    "text": "先天下之忧而忧，后天下之乐而乐。噫！微斯人，吾谁与归？",
+    "author": "范仲淹《岳阳楼记》",
+    "category": "段落"
+  },
+  {
+    "text": "臣本布衣，躬耕于南阳，苟全性命于乱世，不求闻达于诸侯。先帝不以臣卑鄙，猥自枉屈，三顾臣于草庐之中，咨臣以当世之事，由是感激，遂许先帝以驱驰。后值倾覆，受任于败军之际，奉命于危难之间，尔来二十有一年矣。",
+    "author": "诸葛亮《出师表》",
+    "category": "段落"
+  },
+  {
+    "text": "臣闻求木之长者，必固其根本；欲流之远者，必浚其泉源；思国之安者，必积其德义。源不深而望流之远，根不固而求木之长，德不厚而思国之理，臣虽愚，知其不可，而况于哲人乎！",
+    "author": "魏徵《谏太宗十思疏》",
+    "category": "段落"
+  },
+  {
+    "text": "六国破灭，非兵不利，战不善，弊在赂秦。赂秦而力亏，破灭之道也。或曰：六国互丧，率赂秦耶？曰：不赂者以赂者丧，盖失强援，不能独完。故曰：弊在赂秦也。",
+    "author": "苏洵《六国论》",
+    "category": "段落"
+  },
+  {
+    "text": "是故天将降大任于是人也，必先苦其心志，劳其筋骨，饿其体肤，空乏其身，行拂乱其所为，所以动心忍性，曾益其所不能。人恒过，然后能改；困于心，衡于虑，而后作；征于色，发于声，而后喻。",
+    "author": "孟子",
+    "category": "段落"
+  },
+  {
+    "text": "夫夷以近，则游者众；险以远，则至者少。而世之奇伟、瑰怪、非常之观，常在于险远，而人之所罕至焉，故非有志者不能至也。有志也，不随以止也，力不足者，亦不能至也；志与力，而又不随以怠，至于幽暗昏惑而无物以相之，亦不能至也。",
+    "author": "王安石《游褒禅山记》",
+    "category": "段落"
+  },
+  {
+    "text": "予独爱莲之出淤泥而不染，濯清涟而不妖，中通外直，不蔓不枝，香远益清，亭亭净植，可远观而不可亵玩焉。",
+    "author": "周敦颐《爱莲说》",
+    "category": "段落"
+  },
+  {
+    "text": "对酒当歌，人生几何！譬如朝露，去日苦多。慨当以慷，忧思难忘。何以解忧？唯有杜康。青青子衿，悠悠我心。但为君故，沉吟至今。",
+    "author": "曹操《短歌行》",
+    "category": "段落"
+  },
+  {
+    "text": "环滁皆山也。其西南诸峰，林壑尤美，望之蔚然而深秀者，琅琊也。山行六七里，渐闻水声潺潺而泻出于两峰之间者，酿泉也。峰回路转，有亭翼然临于泉上者，醉翁亭也。",
+    "author": "欧阳修《醉翁亭记》",
+    "category": "段落"
+  },
+  {
+    "text": "落霞与孤鹜齐飞，秋水共长天一色。渔舟唱晚，响穷彭蠡之滨；雁阵惊寒，声断衡阳之浦。",
+    "author": "王勃《滕王阁序》",
+    "category": "段落"
+  },
+  {
+    "text": "豫章故郡，洪都新府。星分翼轸，地接衡庐。襟三江而带五湖，控蛮荆而引瓯越。物华天宝，龙光射牛斗之墟；人杰地灵，徐孺下陈蕃之榻。",
+    "author": "王勃《滕王阁序》",
+    "category": "段落"
   }
 ]
