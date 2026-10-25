@@ -8919,5 +8919,268 @@
     "text": "竹外桃花三两枝，春江水暖鸭先知。",
     "author": "苏轼《惠崇春江晚景》",
     "category": "励志"
+  },
+  {
+    "text": "井蛙不可以语于海，夏虫不可以语于冰。",
+    "author": "庄子《秋水》",
+    "category": "古文"
+  },
+  {
+    "text": "大器晚成，大音希声。",
+    "author": "老子《道德经》",
+    "category": "古文"
+  },
+  {
+    "text": "飞鸟尽，良弓藏；狡兔死，猎狗烹。",
+    "author": "司马迁《史记》",
+    "category": "古文"
+  },
+  {
+    "text": "运筹帷幄之中，决胜千里之外。",
+    "author": "司马迁《史记》",
+    "category": "古文"
+  },
+  {
+    "text": "知之愈明，则行之愈笃；行之愈笃，则知之益明。",
+    "author": "张载《正蒙》",
+    "category": "古文"
+  },
+  {
+    "text": "古之学者为己，今之学者为人。",
+    "author": "孔子《论语》",
+    "category": "古文"
+  },
+  {
+    "text": "周虽旧邦，其命维新。",
+    "author": "《诗经·大雅·文王》",
+    "category": "古文"
+  },
+  {
+    "text": "高山仰止，景行行止。",
+    "author": "《诗经·小雅·车辖》",
+    "category": "古文"
+  },
+  {
+    "text": "战战兢兢，如临深渊，如履薄冰。",
+    "author": "《诗经·小雅·小旻》",
+    "category": "古文"
+  },
+  {
+    "text": "奇文共欣赏，疑义相与析。",
+    "author": "陶渊明",
+    "category": "古文"
+  },
+  {
+    "text": "精卫衔微木，将以填沧海。",
+    "author": "陶渊明《读山海经》",
+    "category": "古文"
+  },
+  {
+    "text": "悲观者在每个机会里看见困难，乐观者在每个困难里看见机会。",
+    "author": "温斯顿·丘吉尔",
+    "category": "励志"
+  },
+  {
+    "text": "生活要么是一场大胆的冒险，要么就什么都不是。",
+    "author": "海伦·凯勒",
+    "category": "励志"
+  },
+  {
+    "text": "世界上最美好的事物，看不见也摸不着，必须用心去感受。",
+    "author": "海伦·凯勒",
+    "category": "励志"
+  },
+  {
+    "text": "虽然世界充满苦难，但世界也充满战胜苦难的方法。",
+    "author": "海伦·凯勒",
+    "category": "励志"
+  },
+  {
+    "text": "要么忙于活，要么忙于死。",
+    "author": "斯蒂芬·金",
+    "category": "励志"
+  },
+  {
+    "text": "效率是把事情做对，效能是做对的事情。",
+    "author": "彼得·德鲁克",
+    "category": "励志"
+  },
+  {
+    "text": "如果你无法衡量它，你就无法管理它。",
+    "author": "彼得·德鲁克",
+    "category": "励志"
+  },
+  {
+    "text": "在隆冬，我终于知道，我身上有一个不可战胜的夏天。",
+    "author": "阿尔贝·加缪",
+    "category": "励志"
+  },
+  {
+    "text": "对未来真正的慷慨，是把一切献给现在。",
+    "author": "阿尔贝·加缪",
+    "category": "励志"
+  },
+  {
+    "text": "今天很残酷，明天更残酷，后天很美好。",
+    "author": "马云",
+    "category": "励志"
+  },
+  {
+    "text": "我们都生活在阴沟里，但仍有人仰望星空。",
+    "author": "奥斯卡·王尔德",
+    "category": "励志"
+  },
+  {
+    "text": "Carpe diem.",
+    "author": "贺拉斯",
+    "category": "英语",
+    "translation": "抓住今天。"
+  },
+  {
+    "text": "Ars longa, vita brevis.",
+    "author": "希波克拉底",
+    "category": "英语",
+    "translation": "艺无止境，生命有涯。"
+  },
+  {
+    "text": "The die is cast.",
+    "author": "尤利乌斯·凯撒",
+    "category": "英语",
+    "translation": "骰子已经掷下。"
+  },
+  {
+    "text": "Hell is empty and all the devils are here.",
+    "author": "威廉·莎士比亚",
+    "category": "英语",
+    "translation": "地狱空荡荡，恶魔尽在此间。"
+  },
+  {
+    "text": "What's past is prologue.",
+    "author": "威廉·莎士比亚",
+    "category": "英语",
+    "translation": "过去只是序幕。"
+  },
+  {
+    "text": "Though she be but little, she is fierce.",
+    "author": "威廉·莎士比亚",
+    "category": "英语",
+    "translation": "她虽娇小，却勇猛刚烈。"
+  },
+  {
+    "text": "Once more unto the breach, dear friends, once more.",
+    "author": "威廉·莎士比亚",
+    "category": "英语",
+    "translation": "朋友们，再一次，冲向缺口，再一次！"
+  },
+  {
+    "text": "Men at some time are masters of their fates.",
+    "author": "威廉·莎士比亚",
+    "category": "英语",
+    "translation": "人有时确能主宰自己的命运。"
+  },
+  {
+    "text": "We few, we happy few, we band of brothers.",
+    "author": "威廉·莎士比亚",
+    "category": "英语",
+    "translation": "我们少数之人，我们幸福之人，我们情同手足的兄弟。"
+  },
+  {
+    "text": "Our deepest fear is not that we are inadequate. Our deepest fear is that we are powerful beyond measure.",
+    "author": "玛丽安·威廉森",
+    "category": "英语",
+    "translation": "我们最深的恐惧，不是我们不够好；我们最深的恐惧，是我们强大得不可估量。"
+  },
+  {
+    "text": "First they ignore you, then they laugh at you, then they fight you, then you win.",
+    "author": "圣雄甘地",
+    "category": "英语",
+    "translation": "起初他们忽视你，然后嘲笑你，继而与你斗争，最后你会胜利。"
+  },
+  {
+    "text": "Strength does not come from physical capacity. It comes from an indomitable will.",
+    "author": "圣雄甘地",
+    "category": "英语",
+    "translation": "力量并非来自体魄，而来自百折不挠的意志。"
+  },
+  {
+    "text": "寄蜉蝣于天地，渺沧海之一粟。哀吾生之须臾，羡长江之无穷。",
+    "author": "苏轼《前赤壁赋》",
+    "category": "段落"
+  },
+  {
+    "text": "是故无贵无贱，无长无少，道之所存，师之所存也。",
+    "author": "韩愈《师说》",
+    "category": "段落"
+  },
+  {
+    "text": "东船西舫悄无言，唯见江心秋月白。",
+    "author": "白居易《琵琶行》",
+    "category": "段落"
+  },
+  {
+    "text": "回眸一笑百媚生，六宫粉黛无颜色。",
+    "author": "白居易《长恨歌》",
+    "category": "段落"
+  },
+  {
+    "text": "在天愿作比翼鸟，在地愿为连理枝。天长地久有时尽，此恨绵绵无绝期。",
+    "author": "白居易《长恨歌》",
+    "category": "段落"
+  },
+  {
+    "text": "山回路转不见君，雪上空留马行处。",
+    "author": "岑参《白雪歌送武判官归京》",
+    "category": "段落"
+  },
+  {
+    "text": "俱怀逸兴壮思飞，欲上青天揽明月。",
+    "author": "李白《宣州谢朓楼饯别校书叔云》",
+    "category": "段落"
+  },
+  {
+    "text": "北海虽赊，扶摇可接；东隅已逝，桑榆非晚。",
+    "author": "王勃《滕王阁序》",
+    "category": "段落"
+  },
+  {
+    "text": "千古江山，英雄无觅，孙仲谋处。舞榭歌台，风流总被，雨打风吹去。",
+    "author": "辛弃疾《永遇乐·京口北固亭怀古》",
+    "category": "段落"
+  },
+  {
+    "text": "东风夜放花千树，更吹落、星如雨。宝马雕车香满路。凤箫声动，玉壶光转，一夜鱼龙舞。",
+    "author": "辛弃疾《青玉案·元夕》",
+    "category": "段落"
+  },
+  {
+    "text": "爆竹声中一岁除，春风送暖入屠苏。千门万户曈曈日，总把新桃换旧符。",
+    "author": "王安石《元日》",
+    "category": "段落"
+  },
+  {
+    "text": "目不能两视而明，耳不能两听而聪。",
+    "author": "荀子《劝学》",
+    "category": "古文"
+  },
+  {
+    "text": "登高而招，臂非加长也，而见者远。",
+    "author": "荀子《劝学》",
+    "category": "古文"
+  },
+  {
+    "text": "你永远不会太老，也不会太晚，去成为你想成为的人。",
+    "author": "乔治·艾略特",
+    "category": "励志"
+  },
+  {
+    "text": "Expectation is the root of all heartache.",
+    "author": "威廉·莎士比亚",
+    "category": "英语",
+    "translation": "期望是一切心痛的根源。"
+  },
+  {
+    "text": "茅檐常扫净无苔，花木成畦手自栽。一水护田将绿绕，两山排闼送青来。",
+    "author": "王安石《书湖阴先生壁》",
+    "category": "段落"
   }
 ]
